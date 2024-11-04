@@ -1,0 +1,49 @@
+
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpSession;
+
+import java.io.IOException;
+
+/**
+ * Servlet implementation class Ejer3
+ */
+@WebServlet("/Ejer3")
+public class Ejer3 extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	private String nombre = "";
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public Ejer3() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+    Object lock = new Object();
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.setContentType("text/html");
+		synchronized(lock) {
+	        HttpSession newSession = request.getSession(true);
+	        nombre = request.getParameter("nombre");
+	        newSession.setAttribute("nombre", nombre);
+	
+	        response.getWriter().append("Nombre: " + nombre + "<br>");
+	        response.getWriter().append("ID de la sesión: " + newSession.getId() + "<br>");
+	        response.getWriter().append("Dia de creación de la sesión: " + newSession.getCreationTime() + "<br>");
+	        response.getWriter().append("Último acceso a la sesión: " + newSession.getLastAccessedTime() + "<br>");
+	    
+		}
+		
+	}
+
+}

@@ -1,0 +1,56 @@
+
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpSession;
+
+import java.io.IOException;
+
+/**
+ * Servlet implementation class Ejer3
+ */
+@WebServlet("/Ejer3")
+public class Ejer3 extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	private final Object lock = new Object();
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public Ejer3() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.setContentType("text/html");
+
+        synchronized (lock) {
+            // Invalida la sesión actual si existe
+            HttpSession ultimaSesion = request.getSession(false);
+            if (oldSession != null) {
+                oldSession.invalidate();
+            }
+
+            // Crea una nueva sesión
+            HttpSession newSession = request.getSession(true);
+            String usuario = request.getParameter("usuario");
+            newSession.setAttribute("usuario", usuario);
+
+            response.getWriter().append("Usuario: " + usuario + "<br>");
+            response.getWriter().append("id de la sesión: " + newSession.getId() + "<br>");
+            response.getWriter().append("Fecha de creación: " + newSession.getCreationTime() + "<br>");
+            response.getWriter().append("Fecha último acceso: " + newSession.getLastAccessedTime() + "<br>");
+        }
+
+		
+	}
+
+}
