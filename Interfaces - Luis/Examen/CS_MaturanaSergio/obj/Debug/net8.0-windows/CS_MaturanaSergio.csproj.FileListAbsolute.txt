@@ -18,3 +18,4 @@ C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Examen\CS_MaturanaSergio\obj\De
 C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Examen\CS_MaturanaSergio\obj\Debug\net8.0-windows\CS_MaturanaSergio.pdb
 C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Examen\CS_MaturanaSergio\obj\Debug\net8.0-windows\CS_MaturanaSergio.genruntimeconfig.cache
 C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Examen\CS_MaturanaSergio\obj\Debug\net8.0-windows\ref\CS_MaturanaSergio.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Examen\CS_MaturanaSergio\obj\Debug\net8.0-windows\CS_MaturanaSergio.sourcelink.json

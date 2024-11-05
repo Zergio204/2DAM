@@ -1,0 +1,115 @@
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\bin\Debug\Surtidor.exe
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\bin\Debug\Surtidor.pdb
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\MainWindow.baml
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\MainWindow.g.cs
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\App.g.cs
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\Surtidor_MarkupCompile.cache
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\Surtidor.g.resources
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\Surtidor.Properties.Resources.resources
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\Surtidor.exe
+e:\users\muchachito2\documents\visual studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\Surtidor.pdb
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\Surtidor.exe
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\Surtidor.pdb
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\bin\Debug\Surtidor.exe
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\bin\Debug\Surtidor.pdb
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\MainWindow.baml
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\App.g.cs
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\Surtidor_MarkupCompile.cache
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\Surtidor.g.resources
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\Surtidor.Properties.Resources.resources
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luiki\Documents\Visual Studio 2010\Projects\Surtidor\Surtidor\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Surtidor\Surtidor\bin\Debug\Surtidor.exe
+F:\Surtidor\Surtidor\bin\Debug\Surtidor.pdb
+F:\Surtidor\Surtidor\obj\x86\Debug\Surtidor.csprojResolveAssemblyReference.cache
+F:\Surtidor\Surtidor\obj\x86\Debug\MainWindow.baml
+F:\Surtidor\Surtidor\obj\x86\Debug\MainWindow.g.cs
+F:\Surtidor\Surtidor\obj\x86\Debug\App.g.cs
+F:\Surtidor\Surtidor\obj\x86\Debug\Surtidor_MarkupCompile.cache
+F:\Surtidor\Surtidor\obj\x86\Debug\Surtidor.g.resources
+F:\Surtidor\Surtidor\obj\x86\Debug\Surtidor.Properties.Resources.resources
+F:\Surtidor\Surtidor\obj\x86\Debug\Surtidor.csproj.GenerateResource.Cache
+F:\Surtidor\Surtidor\obj\x86\Debug\Surtidor.exe
+F:\Surtidor\Surtidor\obj\x86\Debug\Surtidor.pdb
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.exe
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.pdb
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\bin\Debug\Surtidor.exe
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\bin\Debug\Surtidor.pdb
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\MainWindow.baml
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\App.g.cs
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor_MarkupCompile.cache
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.g.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.Properties.Resources.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csproj.GenerateResource.Cache
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.exe
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.pdb
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\bin\Debug\Surtidor.exe
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\bin\Debug\Surtidor.pdb
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csprojResolveAssemblyReference.cache
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\MainWindow.baml
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\MainWindow.g.cs
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\App.g.cs
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor_MarkupCompile.cache
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.g.resources
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.Properties.Resources.resources
+F:\DocumentosAlberto\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.exe
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.pdb
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\bin\Debug\Surtidor.exe
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\bin\Debug\Surtidor.pdb
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\MainWindow.baml
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\App.g.cs
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor_MarkupCompile.cache
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.g.resources
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.Properties.Resources.resources
+C:\Users\Alberto\Documents\Visual Studio 2015\Projects\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\bin\Debug\Surtidor.exe
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\bin\Debug\Surtidor.pdb
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csprojAssemblyReference.cache
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\MainWindow.baml
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\App.g.cs
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor_MarkupCompile.cache
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.g.resources
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.Properties.Resources.resources
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csproj.GenerateResource.cache
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.exe
+C:\Users\Alberto\Desktop\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.pdb
+G:\sources\Examen231020\Surtidor - 2\Surtidor\bin\Debug\Surtidor.exe.config
+G:\sources\Examen231020\Surtidor - 2\Surtidor\bin\Debug\Surtidor.exe
+G:\sources\Examen231020\Surtidor - 2\Surtidor\bin\Debug\Surtidor.pdb
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csproj.AssemblyReference.cache
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\MainWindow.baml
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\MainWindow.g.cs
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\App.g.cs
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor_MarkupCompile.cache
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.g.resources
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.Properties.Resources.resources
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csproj.GenerateResource.cache
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.csproj.CoreCompileInputs.cache
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.exe
+G:\sources\Examen231020\Surtidor - 2\Surtidor\obj\x86\Debug\Surtidor.pdb
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\bin\Debug\Surtidor.exe.config
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\bin\Debug\Surtidor.exe
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\bin\Debug\Surtidor.pdb
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\Surtidor.csproj.AssemblyReference.cache
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\MainWindow.baml
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\MainWindow.g.cs
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\App.g.cs
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\Surtidor_MarkupCompile.cache
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\Surtidor.g.resources
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\Surtidor.Properties.Resources.resources
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\Surtidor.csproj.GenerateResource.cache
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\Surtidor.csproj.CoreCompileInputs.cache
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\Surtidor.exe
+G:\sources\Examen231020\WpfAppSurtidor\Surtidor\obj\x86\Debug\Surtidor.pdb
