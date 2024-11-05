@@ -1,0 +1,41 @@
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0.csproj.AssemblyReference.cache
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\App.g.cs
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0_MarkupCompile.cache
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0_MarkupCompile.lref
+G:\sources\WpfAppLinq0\bin\Debug\net6.0-windows\WpfAppLinq0.exe
+G:\sources\WpfAppLinq0\bin\Debug\net6.0-windows\WpfAppLinq0.deps.json
+G:\sources\WpfAppLinq0\bin\Debug\net6.0-windows\WpfAppLinq0.runtimeconfig.json
+G:\sources\WpfAppLinq0\bin\Debug\net6.0-windows\WpfAppLinq0.dll
+G:\sources\WpfAppLinq0\bin\Debug\net6.0-windows\WpfAppLinq0.pdb
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\MainWindow.baml
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0.g.resources
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0.GeneratedMSBuildEditorConfig.editorconfig
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0.AssemblyInfoInputs.cache
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0.AssemblyInfo.cs
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0.csproj.CoreCompileInputs.cache
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0.dll
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\refint\WpfAppLinq0.dll
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0.pdb
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\WpfAppLinq0.genruntimeconfig.cache
+G:\sources\WpfAppLinq0\obj\Debug\net6.0-windows\ref\WpfAppLinq0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\bin\Debug\net6.0-windows\WpfAppLinq0.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\bin\Debug\net6.0-windows\WpfAppLinq0.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\bin\Debug\net6.0-windows\WpfAppLinq0.runtimeconfig.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\bin\Debug\net6.0-windows\WpfAppLinq0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\bin\Debug\net6.0-windows\WpfAppLinq0.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\WpfAppLinq0_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\WpfAppLinq0_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\WpfAppLinq0.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\WpfAppLinq0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\WpfAppLinq0.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\WpfAppLinq0.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\WpfAppLinq0.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\WpfAppLinq0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\refint\WpfAppLinq0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\WpfAppLinq0.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\WpfAppLinq0.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq00\obj\Debug\net6.0-windows\ref\WpfAppLinq0.dll

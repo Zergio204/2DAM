@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejem06_IntentsYAlertas</string>
+    <string name="lanzar_navegador">Lanzar Navegador</string>
+    <string name="mandar_email">Mandar Email</string>
+    <string name="llamar_telefono">Llamar Telefono</string>
+    <string name="lanzar_google_maps">Lanzar Google Maps</string>
+    <string name="lanzar_watsapp">Lanzar Watsapp</string>
+    <string name="dialogo_alerta">Dialogo Alerta</string>
+    <string name="dialogo_multiples_opciones">Dialogo Multiples Opciones</string>
+    <string name="dialogo_opcion_unica">Dialogo Opcion Unica</string>
+</resources>

@@ -1,0 +1,40 @@
+D:\source\WpfAppLinq0\bin\Debug\net7.0-windows\WpfAppLinq0.exe
+D:\source\WpfAppLinq0\bin\Debug\net7.0-windows\WpfAppLinq0.deps.json
+D:\source\WpfAppLinq0\bin\Debug\net7.0-windows\WpfAppLinq0.runtimeconfig.json
+D:\source\WpfAppLinq0\bin\Debug\net7.0-windows\WpfAppLinq0.dll
+D:\source\WpfAppLinq0\bin\Debug\net7.0-windows\WpfAppLinq0.pdb
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\App.g.cs
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0_MarkupCompile.cache
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0_MarkupCompile.lref
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\MainWindow.baml
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.g.resources
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.AssemblyInfoInputs.cache
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.AssemblyInfo.cs
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.csproj.CoreCompileInputs.cache
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.dll
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\refint\WpfAppLinq0.dll
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.pdb
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.genruntimeconfig.cache
+D:\source\WpfAppLinq0\obj\Debug\net7.0-windows\ref\WpfAppLinq0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\bin\Debug\net7.0-windows\WpfAppLinq0.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\bin\Debug\net7.0-windows\WpfAppLinq0.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\bin\Debug\net7.0-windows\WpfAppLinq0.runtimeconfig.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\bin\Debug\net7.0-windows\WpfAppLinq0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\bin\Debug\net7.0-windows\WpfAppLinq0.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\refint\WpfAppLinq0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\WpfAppLinq0.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLinq0\obj\Debug\net7.0-windows\ref\WpfAppLinq0.dll

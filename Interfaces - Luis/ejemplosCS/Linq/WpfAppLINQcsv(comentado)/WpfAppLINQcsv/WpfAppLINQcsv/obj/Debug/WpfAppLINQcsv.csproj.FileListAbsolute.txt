@@ -1,0 +1,51 @@
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\WpfAppLINQcsv.exe.config
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\WpfAppLINQcsv.exe
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\WpfAppLINQcsv.pdb
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.csprojAssemblyReference.cache
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\MainWindow.g.cs
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\App.g.cs
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv_MarkupCompile.cache
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv_MarkupCompile.lref
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\MainWindow.baml
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.g.resources
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.Properties.Resources.resources
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.csproj.GenerateResource.cache
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.csproj.CoreCompileInputs.cache
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.exe
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.pdb
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv_Content.g.cs
+G:\source2019\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\Empleados.csv
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\Empleados.csv
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\WpfAppLINQcsv.exe.config
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\WpfAppLINQcsv.exe
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\WpfAppLINQcsv.pdb
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.csprojAssemblyReference.cache
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\MainWindow.g.cs
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\App.g.cs
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv_Content.g.cs
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv_MarkupCompile.cache
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv_MarkupCompile.lref
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\MainWindow.baml
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.g.resources
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.Properties.Resources.resources
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.csproj.GenerateResource.cache
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.exe
+C:\Users\alberto\Downloads\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\Empleados.csv
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\WpfAppLINQcsv.exe.config
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\WpfAppLINQcsv.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\bin\Debug\WpfAppLINQcsv.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.csproj.AssemblyReference.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv_Content.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.Properties.Resources.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.csproj.GenerateResource.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\Linq\WpfAppLINQcsv(comentado)\WpfAppLINQcsv\WpfAppLINQcsv\obj\Debug\WpfAppLINQcsv.pdb

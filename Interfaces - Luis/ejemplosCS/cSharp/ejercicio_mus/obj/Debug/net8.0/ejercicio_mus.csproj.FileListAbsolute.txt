@@ -1,0 +1,14 @@
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\bin\Debug\net8.0\ejercicio_mus.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\bin\Debug\net8.0\ejercicio_mus.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\bin\Debug\net8.0\ejercicio_mus.runtimeconfig.json
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\bin\Debug\net8.0\ejercicio_mus.dll
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\bin\Debug\net8.0\ejercicio_mus.pdb
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\obj\Debug\net8.0\ejercicio_mus.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\obj\Debug\net8.0\ejercicio_mus.AssemblyInfoInputs.cache
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\obj\Debug\net8.0\ejercicio_mus.AssemblyInfo.cs
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\obj\Debug\net8.0\ejercicio_mus.csproj.CoreCompileInputs.cache
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\obj\Debug\net8.0\ejercicio_mus.dll
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\obj\Debug\net8.0\refint\ejercicio_mus.dll
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\obj\Debug\net8.0\ejercicio_mus.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\obj\Debug\net8.0\ejercicio_mus.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejercicio_mus\obj\Debug\net8.0\ref\ejercicio_mus.dll

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <array name="ciudad">
+        <item>Avila</item>
+        <item>Burgos</item>
+        <item>León</item>
+        <item>Palencia</item>
+        <item>Salamanca</item>
+        <item>Segovia</item>
+        <item>Valladolid</item>
+        <item>Zamora</item>
+    </array>
+</resources>

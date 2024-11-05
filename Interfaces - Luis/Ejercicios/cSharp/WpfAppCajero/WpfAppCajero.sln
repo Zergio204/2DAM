@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppCajero", "WpfAppCajero.csproj", "{C00D35CF-C7A3-4F88-AEC9-92A7ACA0E2EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00D35CF-C7A3-4F88-AEC9-92A7ACA0E2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00D35CF-C7A3-4F88-AEC9-92A7ACA0E2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00D35CF-C7A3-4F88-AEC9-92A7ACA0E2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00D35CF-C7A3-4F88-AEC9-92A7ACA0E2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE0C13B-905E-41D3-80AA-C23D029F81E9}
+	EndGlobalSection
+EndGlobal

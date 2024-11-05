@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="usuario"
+            type="com.eirmarse.ejercicio2.Persona" />
+    </data>
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/et_nombre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:hint="Introduce tu nombre"
+                android:text="@{usuario.nombre}" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/et_edad"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:hint="Introduce tu edad"
+                android:text="@{String.valueOf(usuario.edad)}" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <LinearLayout
+            android:id="@+id/ly_padre_marron"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#C79E32"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_Padre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Padre Marron" />
+
+            <LinearLayout
+                android:id="@+id/ly_hijo_verde"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:background="#9BFF50"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_Hijo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Hijo Verde" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <RadioGroup
+            android:id="@+id/rg_estadoCivil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp">
+
+            <RadioButton
+                android:id="@+id/rb_soltero"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="@{usuario.soltero}"
+                android:text="Solter@" />
+
+            <RadioButton
+                android:id="@+id/rb_casado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="@{!usuario.soltero}"
+                android:text="Casad@" />
+        </RadioGroup>
+
+        <Spinner
+            android:id="@+id/sp_ciudad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:entries="@array/ciudad"
+            android:minHeight="48dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/cb_futbol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="@{usuario.deportes.contains(`Fútbol`)}"
+                android:text="Fútbol" />
+
+            <CheckBox
+                android:id="@+id/cb_baloncesto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="@{usuario.deportes.contains(`Baloncesto`)}"
+                android:text="Baloncesto" />
+
+            <CheckBox
+                android:id="@+id/cb_tenis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="@{usuario.deportes.contains(`Tenis`)}"
+                android:text="Tenis" />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/b_guardar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Guardar" />
+    </LinearLayout>
+</layout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Contador.java&apos; to &apos;Ejer04_MatandoProcesosGrupo/src/main/java/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Ejer03_GruposPrioridades&apos;&#x0D;&#x0A;- Destination element: &apos;Ejer04_MatandoProcesosGrupo/src/main/java/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;Contador.java&apos;" description="Copy compilation unit" destination="=Ejer04_MatandoProcesosGrupo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;{Contador.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1728544347951" units="1" version="1.0"/>
+</session>

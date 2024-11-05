@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE6894-A23B-425C-83ED-B2A304AA5D7B}|WpfAppLinq0.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejemploscs\\linq\\wpfapplinq00\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE6894-A23B-425C-83ED-B2A304AA5D7B}|WpfAppLinq0.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE6894-A23B-425C-83ED-B2A304AA5D7B}|WpfAppLinq0.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejemploscs\\linq\\wpfapplinq00\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E5DE6894-A23B-425C-83ED-B2A304AA5D7B}|WpfAppLinq0.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE6894-A23B-425C-83ED-B2A304AA5D7B}|WpfAppLinq0.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejemploscs\\linq\\wpfapplinq00\\vistapropietarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE6894-A23B-425C-83ED-B2A304AA5D7B}|WpfAppLinq0.csproj|solutionrelative:vistapropietarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE6894-A23B-425C-83ED-B2A304AA5D7B}|WpfAppLinq0.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejemploscs\\linq\\wpfapplinq00\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE6894-A23B-425C-83ED-B2A304AA5D7B}|WpfAppLinq0.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE6894-A23B-425C-83ED-B2A304AA5D7B}|WpfAppLinq0.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejemploscs\\linq\\wpfapplinq00\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE6894-A23B-425C-83ED-B2A304AA5D7B}|WpfAppLinq0.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:58:26.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:58:26.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T06:58:26.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAmwIwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:58:26.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VistaPropietarios.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\VistaPropietarios.cs",
+              "RelativeDocumentMoniker": "VistaPropietarios.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\ejemplosCS\\Linq\\WpfAppLinq00\\VistaPropietarios.cs",
+              "RelativeToolTip": "VistaPropietarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:58:26.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

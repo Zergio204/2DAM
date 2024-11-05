@@ -1,0 +1,67 @@
+
+
+import jakarta.servlet.Filter;
+import jakarta.servlet.FilterChain;
+import jakarta.servlet.FilterConfig;
+import jakarta.servlet.ServletContext;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.ServletRequest;
+import jakarta.servlet.ServletResponse;
+import jakarta.servlet.annotation.WebFilter;
+import jakarta.servlet.http.HttpFilter;
+import jakarta.servlet.http.HttpServletRequest;
+
+import java.io.IOException;
+import java.util.HashMap;
+
+/**
+ * Servlet Filter implementation class Filtro
+ */
+@WebFilter("/Filtro")
+public class Filtro extends HttpFilter implements Filter {
+	private HashMap<String, Integer> contadorVisitas;
+       
+    /**
+     * @see HttpFilter#HttpFilter()
+     */
+    public Filtro() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see Filter#destroy()
+	 */
+	public void destroy() {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see Filter#doFilter(ServletRequest, ServletResponse, FilterChain)
+	 */
+	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
+		// TODO Auto-generated method stub
+		HttpServletRequest req = (HttpServletRequest) request;
+        String url = req.getRequestURI();
+
+        contadorVisitas.put(url, contadorVisitas.getOrDefault(url, 0) + 1);
+
+        chain.doFilter(request, response);
+		// pass the request along the filter chain
+		chain.doFilter(request, response);
+	}
+
+	/**
+	 * @see Filter#init(FilterConfig)
+	 */
+	public void init(FilterConfig fConfig) throws ServletException {
+		// TODO Auto-generated method stub
+		ServletContext context = config.getServletContext();
+        contadorVisitas = (HashMap<String, Integer>) context.getAttribute("contadorVisitas");
+        if (contadorVisitas == null) {
+            contadorVisitas = new HashMap<>();
+            context.setAttribute("contadorVisitas", contadorVisitas);
+        }
+	}
+
+}

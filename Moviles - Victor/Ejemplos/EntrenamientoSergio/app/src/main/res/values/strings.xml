@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EntrenamientoSergio</string>
+    <string name="TextView_Nombre">"Nombre: "</string>
+    <string name="Hint_IntroduceUsuario">Introduce un Usuario</string>
+    <string name="Button_ListaUsuarios">Listar</string>
+    <string name="Button_IrAl2doActivity">Crear nuevo Usuario</string>
+    <string name="Button_Volver">Volver</string>
+    <string name="Button_Anadir">Añadir</string>
+    <string name="hint_Name">Name</string>
+</resources>

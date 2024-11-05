@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejer15</string>
+    <string name="votar">Vote</string>
+    <string name="cambiar_idioma">Change language</string>
+    <array name="partidos">
+        <item>PSOE</item>
+        <item>PP</item>
+        <item>Vox</item>
+        <item>Sumar</item>
+        <item>SALF</item>
+        <item>TE</item>
+    </array>
+</resources>

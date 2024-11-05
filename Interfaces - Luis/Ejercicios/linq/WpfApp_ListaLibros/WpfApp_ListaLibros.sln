@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_ListaLibros", "WpfApp_ListaLibros.csproj", "{D1ED965B-25E9-4620-BFB3-1140486D3530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1ED965B-25E9-4620-BFB3-1140486D3530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1ED965B-25E9-4620-BFB3-1140486D3530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1ED965B-25E9-4620-BFB3-1140486D3530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1ED965B-25E9-4620-BFB3-1140486D3530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03507C05-E209-4406-AB14-C310D1EDDA07}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejer15</string>
+    <string name="votar">Votar</string>
+    <string name="cambiar_idioma">Cambiar idioma</string>
+    <array name="partidos">
+        <item>PSOE</item>
+        <item>PP</item>
+        <item>Vox</item>
+        <item>Sumar</item>
+        <item>SALF</item>
+        <item>TE</item>
+    </array>
+</resources>
