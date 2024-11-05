@@ -1,9 +1,0 @@
-127.0.0.1 - - [16/Oct/2024:11:56:50 +0200] "GET / HTTP/1.1" 404 688
-127.0.0.1 - - [16/Oct/2024:11:57:04 +0200] "GET / HTTP/1.1" 404 688
-127.0.0.1 - - [16/Oct/2024:11:57:04 +0200] "GET /example-webapp/Ejemplo10 HTTP/1.1" 200 197
-127.0.0.1 - - [16/Oct/2024:11:57:04 +0200] "GET /favicon.ico HTTP/1.1" 404 699
-127.0.0.1 - - [16/Oct/2024:11:57:34 +0200] "POST /example-webapp/Ejemplo10 HTTP/1.1" 200 344
-127.0.0.1 - - [16/Oct/2024:11:57:36 +0200] "GET /example-webapp/Ejemplo10 HTTP/1.1" 200 197
-127.0.0.1 - - [16/Oct/2024:11:57:36 +0200] "GET /favicon.ico HTTP/1.1" 404 699
-127.0.0.1 - - [16/Oct/2024:11:57:36 +0200] "POST /example-webapp/Ejemplo10 HTTP/1.1" 200 134
-127.0.0.1 - - [16/Oct/2024:11:57:38 +0200] "GET /example-webapp/Ejemplo10 HTTP/1.1" 200 197

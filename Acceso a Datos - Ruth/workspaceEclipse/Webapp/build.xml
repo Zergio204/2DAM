@@ -1,7 +1,0 @@
-<project name="Webapp" default="WAR-build" basedir=".">
-	<description>Webapp - Build file</description>
-
-	<import file="buildProperties.xml"/>
-	<import file="buildTasks.xml"/>
-
-</project>
