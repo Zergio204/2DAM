@@ -20,7 +20,6 @@
 <item elementID="=Ejem07b_ProductorConsumidor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Ejem07c_ProductoConsumidor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Ejem07.3_ProductorConsumidor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejer8_ProductorConsumidorProfesor" type="4"/>
 <item elementID="=Ejer08_ProductorConsumidorProfesor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1728888986518_7" label="2eva" name="2eva"/>

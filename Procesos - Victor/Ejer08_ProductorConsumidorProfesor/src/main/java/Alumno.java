@@ -1,11 +1,11 @@
 
-public class Alumno extends Thread {
-    private final int id;
-    private final Secretaria secretaria;
+class Alumno extends Thread {
+    private Secretaria secretaria;
+    private int id;
 
-    public Alumno(int id, Secretaria secretaria) {
-        this.id = id;
+    public Alumno(Secretaria secretaria, int id) {
         this.secretaria = secretaria;
+        this.id = id;
     }
 
     @Override
