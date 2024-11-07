@@ -21,6 +21,8 @@
 <item elementID="=Ejem07c_ProductoConsumidor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Ejem07.3_ProductorConsumidor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Ejer08_ProductorConsumidorProfesor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejer09_ProductorConsumidorBanco" type="4"/>
+<item elementID="=Ejer08_ConNotifyAll" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1728888986518_7" label="2eva" name="2eva"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726727532630_2" label="Window Working Set" name="Aggregate for window 1726727532629"/>

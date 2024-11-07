@@ -51,6 +51,7 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="gregoriofer.com"/>
 			<item value="gregoriofer.local"/>
 			<item value="gregoriofer."/>
 		</list>
@@ -59,6 +60,7 @@
 			<item value="name"/>
 		</list>
 		<list key="artifactId">
+			<item value="Ejer09_ProductorConsumidorBanco"/>
 			<item value="Ejer8_ProductorConsumidorProfesor"/>
 			<item value="Ejer7_WaitNotify2"/>
 			<item value="Ejer07"/>

@@ -12,4 +12,6 @@
     <fullyQualifiedTypeName name="java.lang.ThreadGroup"/>
     <fullyQualifiedTypeName name="ImpresoraMensajes"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="Banco"/>
+    <fullyQualifiedTypeName name="Politico"/>
 </qualifiedTypeNameHistroy>
