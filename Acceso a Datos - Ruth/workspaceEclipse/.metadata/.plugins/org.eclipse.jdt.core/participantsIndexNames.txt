@@ -17,14 +17,16 @@ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\
 \Webapp\src\main\java
 C:\Users\smatu\OneDrive\Escritorio\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3439832117.index
 \Webapp\src\main\java
+C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3327544562.index
+\Ej7_APP_JEE_RECOGIDA_DE_DATOS\src\main\java
 C:\Users\smatu\OneDrive\Escritorio\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3495575211.index
 \Webapp\src\main\java
 C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2654997146.index
 \Webapp\src\main\java
-C:\Users\smatu\OneDrive\Escritorio\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2319536200.index
-\Webapp\src\main\java
 C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2170707897.index
 \Ejercicio4\src\main\java
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2319536200.index
+\Webapp\src\main\java
 C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2176534731.index
 \Example\src\main\java
 C:\Users\smatu\OneDrive\Escritorio\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\81610539.index
@@ -69,3 +71,7 @@ C:\Users\smatu\OneDrive\Escritorio\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.
 \E3\src\main\java
 C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\113546490.index
 \Ejercicio5\src\main\java
+C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\569315987.index
+\example-webapp\src\main\java
+C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\808277743.index
+\E8_APP_JEE_ELECCION_DELEGADO_GF\src\main\java
