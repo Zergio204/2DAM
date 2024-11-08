@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/pt_nombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/introduce_nombre"
+        android:inputType="text"
+        android:text="@{usuario.nombre}"
+        android:textColorHint="#546E7A" />
+
+    <EditText
+        android:id="@+id/pt_edad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Introduce Edad"
+        android:inputType="text"
+        android:text="@{usuario.edad}"
+        android:textColorHint="#546E7A" />
+
+    <RadioGroup
+        android:id="@+id/rg_EstadoCivil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rb_Soltero"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/soltero"
+            tools:ignore="VisualLintButtonSize" />
+
+        <RadioButton
+            android:id="@+id/rb_Casado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/casado"
+            tools:ignore="VisualLintButtonSize" />
+
+    </RadioGroup>
+
+    <Spinner
+        android:id="@+id/sp_Ciudad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/ciudades"
+        android:minHeight="48dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cb_futbol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="@{usuario.deportes.contains(`Fútbol`)}"
+            android:text="@string/f_tbol" />
+
+        <CheckBox
+            android:id="@+id/cb_Baloncesto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="@{usuario.deportes.contains(`Baloncesto`)}"
+            android:text="@string/baloncesto" />
+
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/cb_Tenis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="@{usuario.deportes.contains(`Tenis`)}"
+        android:text="@string/tenis" />
+
+    <Button
+        android:id="@+id/b_Guardar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/design_default_color_secondary"
+        android:text="@string/guardar" />
+
+</LinearLayout>

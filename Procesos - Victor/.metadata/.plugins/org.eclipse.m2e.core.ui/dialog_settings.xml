@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\matmense\Desktop\2DAM\Procesos - Victor"/>
+			<item value="C:\Users\smatu\OneDrive\Escritorio\2DAM\Procesos - Victor\Ejer02_RunableProcesos"/>
+			<item value="C:\Users\smatu\OneDrive\Escritorio\2DAM\Procesos - Victor\Ejer01_PidiendoDatos"/>
+			<item value="C:\Users\smatu\OneDrive\Escritorio\2DAM\Procesos - Victor"/>
+			<item value="C:\Users\matmense\Desktop\2DAM\Procesos - Victor\Ejem03_runable\src\main\java"/>
+			<item value="C:\Users\matmense\Desktop\2DAM\Procesos - Victor\Ejercicios"/>
+			<item value="C:\Users\matmense\Desktop\2DAM\Procesos - Victor\Ejem01_HolaMundoRecord\src\main\java\paquete_inicial\Aplicacion.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="gregoriofer.com"/>
+			<item value="gregoriofer.local"/>
+			<item value="gregoriofer."/>
+		</list>
+		<list key="name">
+			<item value="nombre"/>
+			<item value="name"/>
+		</list>
+		<list key="artifactId">
+			<item value="Ejer09_ProductorConsumidorBanco"/>
+			<item value="Ejer8_ProductorConsumidorProfesor"/>
+			<item value="Ejer7_WaitNotify2"/>
+			<item value="Ejer07"/>
+			<item value="Ejem06_"/>
+			<item value="Ejer04_MatandoProcesosGrupo"/>
+			<item value="Ejem05_MatandoProcesos"/>
+			<item value="Ejer03_GruposPrioridades"/>
+			<item value="Ejem04_GruposYPrioridades"/>
+			<item value="Ejer04_MatandoProcesos"/>
+			<item value="RunableProcesos"/>
+			<item value="RunnableYPrioridades"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

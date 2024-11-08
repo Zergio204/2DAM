@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaturanaMenaSergio</string>
+    <string name="login">login</string>
+    <string name="pasword">pasword</string>
+    <string name="finalizar">End</string>
+</resources>

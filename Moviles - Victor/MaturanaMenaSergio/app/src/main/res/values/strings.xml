@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MaturanaMenaSergio</string>
+    <string name="login">login</string>
+    <string name="pasword">contraseña</string>
+    <string name="finalizar">Finalizar</string>
+</resources>

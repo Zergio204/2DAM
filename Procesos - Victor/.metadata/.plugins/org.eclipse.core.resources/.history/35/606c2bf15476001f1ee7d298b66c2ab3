@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+package paquete_inicial;
+
+/**
+ * 
+ */
+public class MiProceso extends Thread {
+
+}

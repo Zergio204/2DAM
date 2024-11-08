@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ejem01_ComponentesBasicos</string>
+    <string name="recuperar_nombre">Recuperar nombre</string>
+    <string name="soltero">Soltero</string>
+    <string name="casado">Casado</string>
+    <string name="ns_nc">NS/NC</string>
+    <string name="activar">Activar</string>
+    <string name="inserte_nombre">Inserte nombre</string>
+    <string name="fondo_gregorio_fernandez">Fondo Gregorio fernandez</string>
+    <array name="color_favorito">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+    </array>
+</resources>

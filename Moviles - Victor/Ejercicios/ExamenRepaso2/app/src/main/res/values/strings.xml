@@ -1,0 +1,9 @@
+<resources>
+    <plurals name="alumnos">
+        <item quantity="zero">No hay alumnos</item>
+        <item quantity="one">1 solo alumno</item>
+        <item quantity="other">%d alumnos</item>
+    </plurals>
+
+    <string name="app_name">ExamenRepaso2</string>
+</resources>

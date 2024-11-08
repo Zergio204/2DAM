@@ -1,0 +1,35 @@
+d:\ejemplosCS\ejemplo1\bin\Debug\net8.0\ejemplo1.exe
+D:\ejemplosCS\ejemplo1\bin\Debug\net8.0\ejemplo1.deps.json
+D:\ejemplosCS\ejemplo1\bin\Debug\net8.0\ejemplo1.runtimeconfig.json
+d:\ejemplosCS\ejemplo1\bin\Debug\net8.0\ejemplo1.dll
+d:\ejemplosCS\ejemplo1\bin\Debug\net8.0\ejemplo1.pdb
+d:\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+d:\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.AssemblyInfoInputs.cache
+d:\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.AssemblyInfo.cs
+d:\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.csproj.CoreCompileInputs.cache
+d:\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.dll
+d:\ejemplosCS\ejemplo1\obj\Debug\net8.0\refint\ejemplo1.dll
+d:\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.pdb
+D:\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.genruntimeconfig.cache
+D:\ejemplosCS\ejemplo1\obj\Debug\net8.0\ref\ejemplo1.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\refint\ejemplo1.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.pdb
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\bin\Debug\net8.0\ejemplo1.exe
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\bin\Debug\net8.0\ejemplo1.deps.json
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\bin\Debug\net8.0\ejemplo1.runtimeconfig.json
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\bin\Debug\net8.0\ejemplo1.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\bin\Debug\net8.0\ejemplo1.pdb
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.AssemblyInfoInputs.cache
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.AssemblyInfo.cs
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\refint\ejemplo1.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.pdb
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ejemplo1.genruntimeconfig.cache
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\ejemplo1\obj\Debug\net8.0\ref\ejemplo1.dll

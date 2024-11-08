@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/b_lanzarNavegador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lanzar_navegador" />
+
+    <Button
+        android:id="@+id/b_MandarEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mandar_email" />
+
+    <Button
+        android:id="@+id/b_LlamarTelefono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/llamar_telefono" />
+
+    <Button
+        android:id="@+id/b_GoogleMaps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lanzar_google_maps" />
+
+    <Button
+        android:id="@+id/b_Watsapp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lanzar_watsapp" />
+
+    <Button
+        android:id="@+id/b_DialogoAlerta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialogo_alerta" />
+
+    <Button
+        android:id="@+id/b_DialogoSeleccion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialogo_multiples_opciones" />
+
+    <Button
+        android:id="@+id/b_DialogoOpcionUnica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialogo_opcion_unica" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+</LinearLayout>

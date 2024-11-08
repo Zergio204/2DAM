@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApp_EstilosPlantillasEjercicios.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_EstilosPlantillasEjercicios"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <!-- una plantilla dentro de un botón para que tenga el aspecto-->
+    <Window.Resources>
+        <ControlTemplate x:Key="BotonPlantilla" TargetType="Button">
+            <Border Background="Green" CornerRadius="100"
+                    Height="100" Width="100"
+                    Padding="10" Margin="10">
+                <Viewbox>
+                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Viewbox>
+            </Border>
+        </ControlTemplate>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Botón 1" Template="{StaticResource BotonPlantilla}"/>
+    </Grid>
+</Window>

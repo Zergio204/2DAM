@@ -1,0 +1,59 @@
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>APPLICATION FORM DAM</title>
+</head>
+<body>
+	<form action="Ejer1" method="post">
+		<h1>CV EUROPASS</h1>
+		<fieldset>
+			<table>
+				<tr>
+					<th>Firts Name</th>
+					<td><input type='text' name='nombre'></td>
+				</tr>	
+				<tr>
+					<th>Last Name</th>
+					<td><input type='text' name='apellido'></td>
+				</tr>
+				<tr>
+					<th>Age</th>
+					<td><input type='text' name='edad'></td>
+				</tr>
+				<tr>
+					<th>Email Address</th>
+					<td><input type='text' name='email'></td>
+				</tr>
+
+				<tr>
+					<th>Position Available I</th>
+					<td><select name='posicion1' multiple>
+							<option value='Hardware'>Hardware</option>
+							<option value='Software'>Software</option>
+							<option value='Maintenance'>Maintenance</option>
+					</select></td>
+
+				</tr>
+				<tr>
+					<th>Position Available II</th>
+					<td><input type='radio' name='posicion2' value='Junior'>Junior
+						<input type='radio' name='posicion2' value='Mid-level'>Mid-level
+						<input type='radio' name='posicion2' value='Senior'>Senior</td>
+				</tr>
+				<tr>
+					<th>Programming Languages</th>
+					<td><input type='checkbox' name='lenguaje' value='Java'>Java
+						<input type='checkbox' name='lenguaje' value='Javascript'>Javascript
+						<input type='checkbox' name='lenguaje' value='Python'>Python
+					</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td align="right"><input type='submit' name='Enviar'
+						value='Send'></td>
+				</tr>
+			</table>
+		</fieldset>
+	</form>
+</body>
+</html>

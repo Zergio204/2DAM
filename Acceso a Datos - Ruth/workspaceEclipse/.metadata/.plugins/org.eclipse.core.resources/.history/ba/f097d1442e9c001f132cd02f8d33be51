@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- 
+APLICACIÓN JEE DE RECOGIDA DE DATOS
+Crea una pequeña aplicación de recogida de datos personales (dni/nif, nombre,
+apellidos, dirección, teléfono, correo) a través de una jsp que contiene un botón
+“Enviar” que llevará a otra jsp que mostrará el formulario con los datos
+introducidos y los campos deshabilitados. Esta jsp contiene un botón “Volver” que
+permitirá volver al formulario de recogida de datos. 
+
+RecogidaPersona.jsp -> ServletPersona.java -> MostrarPersona.jsp -> Persona.java
+-->
+	<form action="MostrarDatos.jsp" method="post">
+		DNI/NIF: <input type="text" name="dni" required><br>
+		Nombre: <input type="text" name="nombre" required><br>
+		Apellidos: <input type="text" name="apellidos" required><br>
+		Dirección: <input type="text" name="direccion" required><br> 
+		Teléfono: <input type="text" name="telefono" required><br>
+		Correo: <input type="email" name="correo" required><br>
+		<input type="submit" value="Enviar">
+	</form>
+</body>
+</html>

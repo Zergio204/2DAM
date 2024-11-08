@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Eje02_ComponentesBasicosII</string>
+    <string name="introduce_nombre">Introduce Nombre</string>
+    <string name="casado">Casado</string>
+    <string name="soltero">Soltero</string>
+    <string name="f_tbol">Fútbol</string>
+    <string name="tenis">Tenis</string>
+    <string name="baloncesto">Baloncesto</string>
+    <string name="guardar">Guardar</string>
+    <array name="ciudades">
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Valencia</item>
+        <item>Sevilla</item>
+        <item>Valladolid</item>
+    </array>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ej6_Cafetera</string>
+    <string name="extra_azucar">Extra Azucar</string>
+    <string name="on">On/Off</string>
+    <string name="button">Button</string>
+    <string name="servir_caf">Servir Café</string>
+    <string-array name="cafes">
+        <item>Café expreso</item>
+        <item>Café americano</item>
+        <item>Macchiato</item>
+        <item>Café doble</item>
+        <item>Cortado</item>
+        <item>Café con leche</item>
+        <item>Capuchino</item>
+        <item>Café Latte</item>
+        <item>Irlandés</item>
+    </string-array>
+</resources>

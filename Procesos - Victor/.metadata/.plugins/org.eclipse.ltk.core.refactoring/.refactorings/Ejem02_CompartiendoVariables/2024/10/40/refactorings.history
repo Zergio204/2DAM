@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Contador.java&apos; to &apos;Ejem04_GruposYPrioridades/src/main/java/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Ejem02_CompartiendoVariables&apos;&#x0D;&#x0A;- Destination element: &apos;Ejem04_GruposYPrioridades/src/main/java/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;paquete_inicial.Contador.java&apos;" description="Copy compilation unit" destination="=Ejem04_GruposYPrioridades/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;paquete_inicial{Contador.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1727936811756" units="1" version="1.0"/>
+</session>

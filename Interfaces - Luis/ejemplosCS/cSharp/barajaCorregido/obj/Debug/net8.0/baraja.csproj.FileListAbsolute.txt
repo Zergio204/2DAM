@@ -1,0 +1,56 @@
+D:\ejemplosCS\baraja\obj\Debug\net8.0\baraja.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejemplosCS\baraja\obj\Debug\net8.0\baraja.AssemblyInfoInputs.cache
+D:\ejemplosCS\baraja\obj\Debug\net8.0\baraja.AssemblyInfo.cs
+D:\ejemplosCS\baraja\obj\Debug\net8.0\baraja.csproj.CoreCompileInputs.cache
+D:\ejemplosCS\baraja\bin\Debug\net8.0\baraja.exe
+D:\ejemplosCS\baraja\bin\Debug\net8.0\baraja.deps.json
+D:\ejemplosCS\baraja\bin\Debug\net8.0\baraja.runtimeconfig.json
+D:\ejemplosCS\baraja\bin\Debug\net8.0\baraja.dll
+D:\ejemplosCS\baraja\bin\Debug\net8.0\baraja.pdb
+D:\ejemplosCS\baraja\obj\Debug\net8.0\baraja.dll
+D:\ejemplosCS\baraja\obj\Debug\net8.0\refint\baraja.dll
+D:\ejemplosCS\baraja\obj\Debug\net8.0\baraja.pdb
+D:\ejemplosCS\baraja\obj\Debug\net8.0\baraja.genruntimeconfig.cache
+D:\ejemplosCS\baraja\obj\Debug\net8.0\ref\baraja.dll
+D:\ejerciciosCS\baraja\bin\Debug\net8.0\baraja.exe
+D:\ejerciciosCS\baraja\bin\Debug\net8.0\baraja.deps.json
+D:\ejerciciosCS\baraja\bin\Debug\net8.0\baraja.runtimeconfig.json
+D:\ejerciciosCS\baraja\bin\Debug\net8.0\baraja.dll
+D:\ejerciciosCS\baraja\bin\Debug\net8.0\baraja.pdb
+D:\ejerciciosCS\baraja\obj\Debug\net8.0\baraja.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejerciciosCS\baraja\obj\Debug\net8.0\baraja.AssemblyInfoInputs.cache
+D:\ejerciciosCS\baraja\obj\Debug\net8.0\baraja.AssemblyInfo.cs
+D:\ejerciciosCS\baraja\obj\Debug\net8.0\baraja.csproj.CoreCompileInputs.cache
+D:\ejerciciosCS\baraja\obj\Debug\net8.0\baraja.dll
+D:\ejerciciosCS\baraja\obj\Debug\net8.0\refint\baraja.dll
+D:\ejerciciosCS\baraja\obj\Debug\net8.0\baraja.pdb
+D:\ejerciciosCS\baraja\obj\Debug\net8.0\baraja.genruntimeconfig.cache
+D:\ejerciciosCS\baraja\obj\Debug\net8.0\ref\baraja.dll
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\bin\Debug\net8.0\baraja.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\bin\Debug\net8.0\baraja.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\bin\Debug\net8.0\baraja.runtimeconfig.json
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\bin\Debug\net8.0\baraja.dll
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\bin\Debug\net8.0\baraja.pdb
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.AssemblyInfoInputs.cache
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.AssemblyInfo.cs
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.csproj.CoreCompileInputs.cache
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.dll
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\refint\baraja.dll
+c:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\ref\baraja.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\bin\Debug\net8.0\baraja.exe
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\bin\Debug\net8.0\baraja.deps.json
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\bin\Debug\net8.0\baraja.runtimeconfig.json
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\bin\Debug\net8.0\baraja.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\bin\Debug\net8.0\baraja.pdb
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.AssemblyInfoInputs.cache
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.AssemblyInfo.cs
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.csproj.CoreCompileInputs.cache
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\refint\baraja.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.pdb
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\baraja.genruntimeconfig.cache
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\ejemplosCS\barajaCorregido\obj\Debug\net8.0\ref\baraja.dll

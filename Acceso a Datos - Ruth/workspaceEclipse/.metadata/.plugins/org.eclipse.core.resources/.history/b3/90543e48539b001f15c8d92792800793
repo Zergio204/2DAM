@@ -1,0 +1,51 @@
+
+
+import jakarta.servlet.AsyncListener;
+import jakarta.servlet.ServletContextAttributeListener;
+import jakarta.servlet.ServletContextListener;
+import jakarta.servlet.ServletRequestAttributeListener;
+import jakarta.servlet.ServletRequestListener;
+import jakarta.servlet.annotation.WebListener;
+import jakarta.servlet.http.HttpSessionActivationListener;
+import jakarta.servlet.http.HttpSessionAttributeListener;
+import jakarta.servlet.http.HttpSessionBindingListener;
+import jakarta.servlet.http.HttpSessionIdListener;
+import jakarta.servlet.http.HttpSessionListener;
+
+/**
+ * Application Lifecycle Listener implementation class Filtro
+ *
+ */
+@WebListener
+public class Filtro implements ServletContextListener, ServletContextAttributeListener, HttpSessionListener, HttpSessionAttributeListener, HttpSessionActivationListener, HttpSessionBindingListener, HttpSessionIdListener, ServletRequestListener, ServletRequestAttributeListener, AsyncListener {
+
+	private HashMap<String, Integer> contadorVisitas;
+
+    @Override
+    public void init(FilterConfig filterConfig) throws ServletException {
+        ServletContext context = filterConfig.getServletContext();
+        contadorVisitas = (HashMap<String, Integer>) context.getAttribute("contadorVisitas");
+        if (contadorVisitas == null) {
+            contadorVisitas = new HashMap<>();
+            context.setAttribute("contadorVisitas", contadorVisitas);
+        }
+    }
+
+    @Override
+    public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
+        HttpServletRequest httpRequest = (HttpServletRequest) request;
+        String url = httpRequest.getRequestURI();
+
+        synchronized (contadorVisitas) {
+            contadorVisitas.put(url, contadorVisitas.getOrDefault(url, 0) + 1);
+        }
+
+        chain.doFilter(request, response);
+    }
+
+    @Override
+    public void destroy() {
+        // No es necesario implementar nada aquí
+    }
+	
+}

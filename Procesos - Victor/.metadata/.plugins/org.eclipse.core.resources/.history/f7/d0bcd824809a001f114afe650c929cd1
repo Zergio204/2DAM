@@ -1,0 +1,29 @@
+package paquete_inicial;
+
+public class Consumidor extends Thread{
+
+	Informacion info;
+	int cont;
+
+	public Consumidor(Informacion info, String nombre) {
+		super(nombre);
+		this.info = info;
+	}
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		super.run();
+		while (info.cont<10) {	
+			synchronized (info) {
+				
+			}
+			System.out.println(Thread.currentThread().getName() + ": " + info.consumir() + " - " + info.cont);
+			cont++;
+		}
+	}
+
+	public int getCont() {
+		return cont;
+	}
+}

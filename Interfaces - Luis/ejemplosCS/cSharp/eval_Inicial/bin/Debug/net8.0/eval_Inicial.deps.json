@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "eval_Inicial/1.0.0": {
+        "runtime": {
+          "eval_Inicial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eval_Inicial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

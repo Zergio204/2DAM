@@ -1,0 +1,80 @@
+D:\source\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.exe
+D:\source\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.deps.json
+D:\source\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.runtimeconfig.json
+D:\source\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.dll
+D:\source\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.pdb
+D:\source\WpfApp000\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\source\WpfApp000\obj\Debug\net8.0-windows\App.g.cs
+D:\source\WpfApp000\obj\Debug\net8.0-windows\WpfApp000_MarkupCompile.cache
+D:\source\WpfApp000\obj\Debug\net8.0-windows\WpfApp000_MarkupCompile.lref
+D:\source\WpfApp000\obj\Debug\net8.0-windows\MainWindow.baml
+D:\source\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.g.resources
+D:\source\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.AssemblyInfoInputs.cache
+D:\source\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.AssemblyInfo.cs
+D:\source\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.csproj.CoreCompileInputs.cache
+D:\source\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.dll
+D:\source\WpfApp000\obj\Debug\net8.0-windows\refint\WpfApp000.dll
+D:\source\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.pdb
+D:\source\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.genruntimeconfig.cache
+D:\source\WpfApp000\obj\Debug\net8.0-windows\ref\WpfApp000.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.runtimeconfig.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\refint\WpfApp000.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\ref\WpfApp000.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.exe
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.deps.json
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.runtimeconfig.json
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.pdb
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000_MarkupCompile.cache
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000_MarkupCompile.lref
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.g.resources
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.AssemblyInfoInputs.cache
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.AssemblyInfo.cs
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.csproj.CoreCompileInputs.cache
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\refint\WpfApp000.dll
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.pdb
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.genruntimeconfig.cache
+C:\Users\smatu\OneDrive\Escritorio\2DAM\Interfaces - Luis\Ejercicios\WpfApp000\obj\Debug\net8.0-windows\ref\WpfApp000.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.runtimeconfig.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\bin\Debug\net8.0-windows\WpfApp000.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\WpfApp000_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\WpfApp000_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\refint\WpfApp000.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\WpfApp000.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\cSharp\WpfApp000\obj\Debug\net8.0-windows\ref\WpfApp000.dll

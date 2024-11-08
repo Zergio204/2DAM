@@ -1,0 +1,14 @@
+D:\ejemplosCS\eval_Inicial\bin\Debug\net8.0\eval_Inicial.exe
+D:\ejemplosCS\eval_Inicial\bin\Debug\net8.0\eval_Inicial.deps.json
+D:\ejemplosCS\eval_Inicial\bin\Debug\net8.0\eval_Inicial.runtimeconfig.json
+D:\ejemplosCS\eval_Inicial\bin\Debug\net8.0\eval_Inicial.dll
+D:\ejemplosCS\eval_Inicial\bin\Debug\net8.0\eval_Inicial.pdb
+D:\ejemplosCS\eval_Inicial\obj\Debug\net8.0\eval_Inicial.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejemplosCS\eval_Inicial\obj\Debug\net8.0\eval_Inicial.AssemblyInfoInputs.cache
+D:\ejemplosCS\eval_Inicial\obj\Debug\net8.0\eval_Inicial.AssemblyInfo.cs
+D:\ejemplosCS\eval_Inicial\obj\Debug\net8.0\eval_Inicial.csproj.CoreCompileInputs.cache
+D:\ejemplosCS\eval_Inicial\obj\Debug\net8.0\eval_Inicial.dll
+D:\ejemplosCS\eval_Inicial\obj\Debug\net8.0\refint\eval_Inicial.dll
+D:\ejemplosCS\eval_Inicial\obj\Debug\net8.0\eval_Inicial.pdb
+D:\ejemplosCS\eval_Inicial\obj\Debug\net8.0\eval_Inicial.genruntimeconfig.cache
+D:\ejemplosCS\eval_Inicial\obj\Debug\net8.0\ref\eval_Inicial.dll

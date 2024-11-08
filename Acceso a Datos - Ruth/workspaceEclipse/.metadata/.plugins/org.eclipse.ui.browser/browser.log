@@ -1,0 +1,6 @@
+
+oct 02, 2024 21:21:42.51 NEW SESSION
+oct 02, 2024 21:21:42.52 [Child 4200, MediaDecoderStateMachine #1] WARNING: Decoder=272bd5ef800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+oct 02, 2024 21:21:42.52 [Child 4200, MediaDecoderStateMachine #1] WARNING: Decoder=272bd5ef800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:167
+oct 02, 2024 21:21:42.52 [Child 4200, MediaDecoderStateMachine #1] WARNING: Decoder=272bd892800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+oct 02, 2024 21:21:42.52 [Child 4200, MediaDecoderStateMachine #1] WARNING: Decoder=272bd892800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:167
