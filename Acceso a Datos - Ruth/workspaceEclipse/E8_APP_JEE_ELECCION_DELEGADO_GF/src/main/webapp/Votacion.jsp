@@ -9,10 +9,9 @@
 <body>
 	<h1>ELECCION DE DELEGADO</h1>
     <form action="ServletVotacion" method="post">
-        <p>Los delegados que se presentan a miembros del Consejo Escolar son...</p>
-        <input type="checkbox" name="candidato" value="Ruth Fernandez"> Ruth Fernandez<br>
-        <input type="checkbox" name="candidato" value="Victor Vergel"> Victor Vergel<br>
-        <input type="submit" value="Enviar">
-    </form>	
+        <label><input type="checkbox" name="candidato" value="Ruth Fernández"> Ruth Fernández</label><br>
+        <label><input type="checkbox" name="candidato" value="Víctor Vergel"> Víctor Vergel</label><br>
+        <button type="submit">Enviar</button>
+    </form>
 </body>
 </html>

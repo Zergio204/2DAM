@@ -15,7 +15,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item key="catalog" value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -27,12 +27,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="gregoriofer.com.E9_APP_JEE_GESTION_DE_INCIDENCIAS"/>
 			<item value="gregoriofer.com.E8_APP_JEE_ELECCION_DELEGADO_GF"/>
 		</list>
 		<list key="groupId">
 			<item value="gregoriofer.com"/>
 		</list>
 		<list key="artifactId">
+			<item value="E9_APP_JEE_GESTION_DE_INCIDENCIAS"/>
 			<item value="E8_APP_JEE_ELECCION_DELEGADO_GF"/>
 		</list>
 		<list key="projectNameTemplate">
