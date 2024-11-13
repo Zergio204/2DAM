@@ -11,6 +11,15 @@
 </head>
 <body>
 	<h2>Listado de Incidencias</h2>
+
+    <%
+        List<Incidencia> incidencias = (List<Incidencia>) getServletContext().getAttribute("incidencias");
+        if (incidencias == null || incidencias.isEmpty()) {
+    %>
+    <p>No hay incidencias registradas.</p>
+    <%
+        } else {
+    %>
     <table border="1">
         <tr>
             <th>Código</th>
@@ -18,19 +27,23 @@
             <th>Descripción</th>
         </tr>
         <%
-            List<Incidencia> incidencias = (List<Incidencia>) request.getAttribute("incidencias");
-            if (incidencias != null) {
-                for (Incidencia incidencia : incidencias) {
-                    out.println("<tr>");
-                    out.println("<td>" + incidencia.getCodigo() + "</td>");
-                    out.println("<td>" + incidencia.getTema() + "</td>");
-                    out.println("<td>" + incidencia.getDescripcion() + "</td>");
-                    out.println("</tr>");
-                }
+            for (Incidencia incidencia : incidencias) {
+        %>
+        <tr>
+            <td><%= incidencia.getCodigo() %></td>
+            <td><%= incidencia.getTema() %></td>
+            <td><%= incidencia.getDescripcion() %></td>
+        </tr>
+        <%
             }
         %>
     </table>
-    <br>
-    <input type="button" value="Volver" onclick="window.location.href='AltaIncidencia.jsp'">
+    <%
+        }
+    %>
+
+    <form action="AltaIncidencia.jsp" method="get">
+        <button type="submit">Volver</button>
+    </form>
 </body>
 </html>

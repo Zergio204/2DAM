@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExamenAnioPasado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15f87c4860e0d72114bd9533b3579684e6f724e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fc81f41f966c1fabfc701ba16d3d6efe284a55f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExamenAnioPasado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExamenAnioPasado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,19 +7,27 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>Alta de Incidencias</h2>
+	<h2>Alta de Incidencia</h2>
     <form action="ServletIncidencia" method="post">
-        <label for="tema">Tema:</label>
-        <input type="text" id="tema" name="tema" required><br><br>
-        <label for="descripcion">Descripción:</label>
-        <input type="text" id="descripcion" name="descripcion" required><br><br>
-        <input type="submit" value="Confirmar">
-        <input type="button" value="Consultar">
+        <label>Tema:</label><br>
+        <input type="text" name="tema"><br><br>
+
+        <label>Descripción:</label><br>
+        <input type="text" name="descripcion"><br><br>
+
+        <input type="submit" value="Confirmar"/>
     </form>
+
+    <form action="ConsultaIncidencia.jsp" method="get">
+        <input type="submit" value="Consultar"/>
+    </form>
+
     <%
-        String mensajeError = (String) request.getAttribute("mensajeError");
-        if (mensajeError != null) {
-            out.println("<p style='color:red;'>" + mensajeError + "</p>");
+        String error = (String) request.getAttribute("error");
+        if (error != null) {
+    %>
+    <p style="color:red;"><%= error %></p>
+    <%
         }
     %>
 </body>

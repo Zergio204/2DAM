@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matmense\\source\\repos\\WpfApp_EstilosPlantillas\\WpfApp_EstilosPlantillas.csproj",
+      "projectUniqueName": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_EstilosPlantillas\\WpfApp_EstilosPlantillas.csproj",
       "projectName": "WpfApp_EstilosPlantillas",
-      "projectPath": "C:\\Users\\matmense\\source\\repos\\WpfApp_EstilosPlantillas\\WpfApp_EstilosPlantillas.csproj",
+      "projectPath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_EstilosPlantillas\\WpfApp_EstilosPlantillas.csproj",
       "packagesPath": "C:\\Users\\matmense\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matmense\\source\\repos\\WpfApp_EstilosPlantillas\\obj\\",
+      "outputPath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_EstilosPlantillas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
