@@ -27,6 +27,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="gregoriofer.com.E10_APP_JEE_ACCESO_CONSULTORA"/>
 			<item value="gregoriofer.com.E9_APP_JEE_GESTION_DE_INCIDENCIAS"/>
 			<item value="gregoriofer.com.E8_APP_JEE_ELECCION_DELEGADO_GF"/>
 		</list>
@@ -34,6 +35,7 @@
 			<item value="gregoriofer.com"/>
 		</list>
 		<list key="artifactId">
+			<item value="E10_APP_JEE_ACCESO_CONSULTORA"/>
 			<item value="E9_APP_JEE_GESTION_DE_INCIDENCIAS"/>
 			<item value="E8_APP_JEE_ELECCION_DELEGADO_GF"/>
 		</list>
