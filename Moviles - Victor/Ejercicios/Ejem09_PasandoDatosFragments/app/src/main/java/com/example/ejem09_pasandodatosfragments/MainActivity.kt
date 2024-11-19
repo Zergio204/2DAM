@@ -9,7 +9,6 @@ import com.example.ejem09_pasandodatosfragments.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
-
     lateinit var binding : ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {

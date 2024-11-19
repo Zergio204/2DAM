@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <include
+        android:id="@+id/miFragment"
+        layout="@layout/fragment_mi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_numeroContador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/n_mero_de_contador" />
+
+    <Button
+        android:id="@+id/b_iniciarContador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/iniciar_contador" />
+
+    <TextView
+        android:id="@+id/tv_contadorAutomatico"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contador_autom_tico" />
+
+    <ProgressBar
+        android:id="@+id/pb_contador"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
