@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDRcEo9ZnrQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppPlantillaListasVMeID\\WpfAppPlantillaListas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matmense\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512",
+    "C:\\Users\\matmense\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\matmense\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
