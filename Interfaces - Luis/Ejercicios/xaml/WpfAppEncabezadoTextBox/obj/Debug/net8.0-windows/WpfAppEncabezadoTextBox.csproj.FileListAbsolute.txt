@@ -1,0 +1,49 @@
+G:\sources\WpfAppEncabezadoTextBox\bin\Debug\net8.0-windows\WpfAppEncabezadoTextBox.exe
+G:\sources\WpfAppEncabezadoTextBox\bin\Debug\net8.0-windows\WpfAppEncabezadoTextBox.deps.json
+G:\sources\WpfAppEncabezadoTextBox\bin\Debug\net8.0-windows\WpfAppEncabezadoTextBox.runtimeconfig.json
+G:\sources\WpfAppEncabezadoTextBox\bin\Debug\net8.0-windows\WpfAppEncabezadoTextBox.dll
+G:\sources\WpfAppEncabezadoTextBox\bin\Debug\net8.0-windows\WpfAppEncabezadoTextBox.pdb
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\App.g.cs
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox_MarkupCompile.cache
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox_MarkupCompile.lref
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\MainWindow.baml
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.g.resources
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.GeneratedMSBuildEditorConfig.editorconfig
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.AssemblyInfoInputs.cache
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.AssemblyInfo.cs
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.csproj.CoreCompileInputs.cache
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.dll
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\refint\WpfAppEncabezadoTextBox.dll
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.pdb
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.genruntimeconfig.cache
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\ref\WpfAppEncabezadoTextBox.dll
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\MiTextBox.g.cs
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\sources\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\MiTextBox.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\bin\Debug\net8.0-windows\WpfAppEncabezadoTextBox.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\bin\Debug\net8.0-windows\WpfAppEncabezadoTextBox.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\bin\Debug\net8.0-windows\WpfAppEncabezadoTextBox.runtimeconfig.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\bin\Debug\net8.0-windows\WpfAppEncabezadoTextBox.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\bin\Debug\net8.0-windows\WpfAppEncabezadoTextBox.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\MiTextBox.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\MiTextBox.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.sourcelink.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\refint\WpfAppEncabezadoTextBox.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\WpfAppEncabezadoTextBox.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\ref\WpfAppEncabezadoTextBox.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\Window1.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEncabezadoTextBox\obj\Debug\net8.0-windows\Window1.baml
