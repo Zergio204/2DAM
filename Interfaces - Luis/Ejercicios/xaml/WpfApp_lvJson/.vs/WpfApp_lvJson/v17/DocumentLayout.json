@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB489178-C864-4CE8-B62C-65D05C043DBB}|WpfApp_lvJson.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfapp_lvjson\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB489178-C864-4CE8-B62C-65D05C043DBB}|WpfApp_lvJson.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB489178-C864-4CE8-B62C-65D05C043DBB}|WpfApp_lvJson.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfapp_lvjson\\datos\\personajes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB489178-C864-4CE8-B62C-65D05C043DBB}|WpfApp_lvJson.csproj|solutionrelative:datos\\personajes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB489178-C864-4CE8-B62C-65D05C043DBB}|WpfApp_lvJson.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfapp_lvjson\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB489178-C864-4CE8-B62C-65D05C043DBB}|WpfApp_lvJson.csproj|solutionrelative:datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB489178-C864-4CE8-B62C-65D05C043DBB}|WpfApp_lvJson.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfapp_lvjson\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB489178-C864-4CE8-B62C-65D05C043DBB}|WpfApp_lvJson.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB489178-C864-4CE8-B62C-65D05C043DBB}|WpfApp_lvJson.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfapp_lvjson\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB489178-C864-4CE8-B62C-65D05C043DBB}|WpfApp_lvJson.csproj|solutionrelative:personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\Datos.cs",
+              "RelativeDocumentMoniker": "Datos.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\Datos.cs",
+              "RelativeToolTip": "Datos.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:29:38.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T11:24:33.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\Personaje.cs",
+              "RelativeDocumentMoniker": "Personaje.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\Personaje.cs",
+              "RelativeToolTip": "Personaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:29:16.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "personajes.json",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\Datos\\personajes.json",
+              "RelativeDocumentMoniker": "Datos\\personajes.json",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\Datos\\personajes.json",
+              "RelativeToolTip": "Datos\\personajes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T11:41:21.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:24:27.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

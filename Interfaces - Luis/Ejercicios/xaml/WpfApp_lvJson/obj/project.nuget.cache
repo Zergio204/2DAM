@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVltau2z1Cc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_lvJson\\WpfApp_lvJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matmense\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

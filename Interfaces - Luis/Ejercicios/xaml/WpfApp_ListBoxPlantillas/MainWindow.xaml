@@ -14,7 +14,8 @@
         <Image x:Name="imageFoto"/>
         <ListBox x:Name="listBoxPersonas"
                  DisplayMemberPath="Nombre"
-                 Grid.Column="1" SelectionChanged="listBoxPersonas_SelectionChanged"
+                 Grid.Column="1" 
+                 SelectionChanged="listBoxPersonas_SelectionChanged"
                  Background="LightBlue"/>
     </Grid>
 </Window>

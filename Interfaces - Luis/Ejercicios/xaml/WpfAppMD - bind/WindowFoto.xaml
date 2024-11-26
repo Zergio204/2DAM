@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfAppMD.WindowFoto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppMD"
+        mc:Ignorable="d" 
+        Height="450" Width="800" Background="LightBlue"
+        WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <Image Source="{Binding Foto}" Margin="30" 
+               Cursor="Hand"
+               MouseLeftButtonDown="Image_MouseLeftButtonDown">
+            <Image.Effect>
+                <DropShadowEffect ShadowDepth="10" BlurRadius="20"/>
+            </Image.Effect>
+        </Image>
+        <TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Center"
+                   Text="{Binding Situacion}"/>
+    </Grid>
+</Window>

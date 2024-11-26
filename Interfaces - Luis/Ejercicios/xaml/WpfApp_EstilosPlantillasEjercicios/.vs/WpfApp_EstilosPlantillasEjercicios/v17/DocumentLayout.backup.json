@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_EstilosPlantillasEjercicios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{97B3D808-9359-434C-9FBD-E6073DEDC0DD}|WpfApp_EstilosPlantillasEjercicios.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfapp_estilosplantillasejercicios\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{97B3D808-9359-434C-9FBD-E6073DEDC0DD}|WpfApp_EstilosPlantillasEjercicios.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97B3D808-9359-434C-9FBD-E6073DEDC0DD}|WpfApp_EstilosPlantillasEjercicios.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfapp_estilosplantillasejercicios\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B3D808-9359-434C-9FBD-E6073DEDC0DD}|WpfApp_EstilosPlantillasEjercicios.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_EstilosPlantillasEjercicios\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_EstilosPlantillasEjercicios\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T12:42:12.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_EstilosPlantillasEjercicios\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",

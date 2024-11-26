@@ -3,6 +3,7 @@
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 			<item value="C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse"/>
+			<item value="C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\example-webapp\src\main\webapp\RecogidaPersona.jsp"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -14,7 +15,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item key="catalog" value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -26,27 +27,19 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="gregoriofer.local.E6_EVENTOS_FILTROS"/>
-			<item value="gregoriofer.local.Ejercicio5"/>
-			<item value="gregoriofer.local.Ejercicio4"/>
-			<item value="gregoriofer.local.E3"/>
-			<item value="gregoriofer.local.E3_Sesiones_Cookies"/>
-			<item value="gregoriofer.local.E3_SESIONES_COOKIES"/>
-			<item value="gregoriofer.local.E3_SESIONES_Y_COOKIES"/>
-			<item value="gregoriofer.local.Tarea2_Contexto"/>
+			<item value="gregoriofer.com.ManejoFicheros"/>
+			<item value="gregoriofer.com.E10_APP_JEE_ACCESO_CONSULTORA"/>
+			<item value="gregoriofer.com.E9_APP_JEE_GESTION_DE_INCIDENCIAS"/>
+			<item value="gregoriofer.com.E8_APP_JEE_ELECCION_DELEGADO_GF"/>
 		</list>
 		<list key="groupId">
-			<item value="gregoriofer.local"/>
+			<item value="gregoriofer.com"/>
 		</list>
 		<list key="artifactId">
-			<item value="E6_EVENTOS_FILTROS"/>
-			<item value="Ejercicio5"/>
-			<item value="Ejercicio4"/>
-			<item value="E3"/>
-			<item value="E3_Sesiones_Cookies"/>
-			<item value="E3_SESIONES_COOKIES"/>
-			<item value="E3_SESIONES_Y_COOKIES"/>
-			<item value="Tarea2_Contexto"/>
+			<item value="ManejoFicheros"/>
+			<item value="E10_APP_JEE_ACCESO_CONSULTORA"/>
+			<item value="E9_APP_JEE_GESTION_DE_INCIDENCIAS"/>
+			<item value="E8_APP_JEE_ELECCION_DELEGADO_GF"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -82,5 +75,7 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
 </section>

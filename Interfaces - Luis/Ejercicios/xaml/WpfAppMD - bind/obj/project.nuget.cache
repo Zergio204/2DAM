@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9VfTaQxJMIk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppMD - bind\\WpfAppMD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matmense\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

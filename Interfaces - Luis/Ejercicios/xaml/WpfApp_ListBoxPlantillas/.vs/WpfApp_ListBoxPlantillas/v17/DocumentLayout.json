@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87D47542-7985-492D-8143-06B8E2646D02}|WpfApp_ListBoxPlantillas.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfapp_listboxplantillas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87D47542-7985-492D-8143-06B8E2646D02}|WpfApp_ListBoxPlantillas.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D47542-7985-492D-8143-06B8E2646D02}|WpfApp_ListBoxPlantillas.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfapp_listboxplantillas\\wpfapp_listboxplantillas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{87D47542-7985-492D-8143-06B8E2646D02}|WpfApp_ListBoxPlantillas.csproj|solutionrelative:wpfapp_listboxplantillas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WpfApp_ListBoxPlantillas",
-              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_ListBoxPlantillas\\WpfApp_ListBoxPlantillas.csproj",
-              "RelativeDocumentMoniker": "WpfApp_ListBoxPlantillas.csproj",
-              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_ListBoxPlantillas\\WpfApp_ListBoxPlantillas.csproj",
-              "RelativeToolTip": "WpfApp_ListBoxPlantillas.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-07T09:31:20.494Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
@@ -59,8 +42,7 @@
               "RelativeToolTip": "Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T09:18:09.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T09:18:09.023Z"
             },
             {
               "$type": "Document",
@@ -82,7 +64,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfApp_ListBoxPlantillas\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwDcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T09:16:46.6Z",
               "EditorCaption": ""
