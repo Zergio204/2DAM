@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mi_navegacion.xml"
+    app:startDestination="@id/fragment1">
+
+    <fragment
+        android:id="@+id/fragment1"
+        android:name="com.example.ejem12_navigationcomponent.Fragment1"
+        android:label="fragment_1"
+        tools:layout="@layout/fragment_1" >
+        <action
+            android:id="@+id/action_fragment1_to_fragment2"
+            app:destination="@id/fragment2"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right" />
+        <argument
+            android:name="dato_recibido"
+            app:argType="string"
+            android:defaultValue="No se envia valor" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment2"
+        android:name="com.example.ejem12_navigationcomponent.Fragment2"
+        android:label="fragment_2"
+        tools:layout="@layout/fragment_2" >
+        <action
+            android:id="@+id/action_fragment2_to_fragment3"
+            app:destination="@id/fragment3" />
+        <action
+            android:id="@+id/action_fragment2_to_fragment1"
+            app:destination="@id/fragment1" />
+        <argument
+            android:name="dato_recibido"
+            app:argType="string"
+            android:defaultValue="No envia valor" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment3"
+        android:name="com.example.ejem12_navigationcomponent.Fragment3"
+        android:label="fragment_3"
+        tools:layout="@layout/fragment_3" >
+        <argument android:name="dato_recibido"
+            app:argType="string"
+            android:defaultValue="No se envía valor" />
+        <action
+            android:id="@+id/action_fragment3_to_fragment2"
+            app:destination="@id/fragment2" />
+    </fragment>
+</navigation>

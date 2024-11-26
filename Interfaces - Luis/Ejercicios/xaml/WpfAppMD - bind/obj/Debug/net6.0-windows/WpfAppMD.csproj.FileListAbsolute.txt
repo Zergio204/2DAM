@@ -1,0 +1,46 @@
+G:\sources\WpfAppMD\bin\Debug\net6.0-windows\WpfAppMD.exe
+G:\sources\WpfAppMD\bin\Debug\net6.0-windows\WpfAppMD.deps.json
+G:\sources\WpfAppMD\bin\Debug\net6.0-windows\WpfAppMD.runtimeconfig.json
+G:\sources\WpfAppMD\bin\Debug\net6.0-windows\WpfAppMD.dll
+G:\sources\WpfAppMD\bin\Debug\net6.0-windows\WpfAppMD.pdb
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.csproj.AssemblyReference.cache
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\App.g.cs
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD_MarkupCompile.cache
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD_MarkupCompile.lref
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\MainWindow.baml
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.g.resources
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.GeneratedMSBuildEditorConfig.editorconfig
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.AssemblyInfoInputs.cache
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.AssemblyInfo.cs
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.csproj.CoreCompileInputs.cache
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.dll
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\refint\WpfAppMD.dll
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.pdb
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.genruntimeconfig.cache
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\ref\WpfAppMD.dll
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.Properties.Resources.resources
+G:\sources\WpfAppMD\obj\Debug\net6.0-windows\WpfAppMD.csproj.GenerateResource.cache
+G:\sources\WpfAppMD - bind\bin\Debug\net6.0-windows\WpfAppMD.exe
+G:\sources\WpfAppMD - bind\bin\Debug\net6.0-windows\WpfAppMD.deps.json
+G:\sources\WpfAppMD - bind\bin\Debug\net6.0-windows\WpfAppMD.runtimeconfig.json
+G:\sources\WpfAppMD - bind\bin\Debug\net6.0-windows\WpfAppMD.dll
+G:\sources\WpfAppMD - bind\bin\Debug\net6.0-windows\WpfAppMD.pdb
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\App.g.cs
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD_MarkupCompile.cache
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD_MarkupCompile.lref
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\MainWindow.baml
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD.g.resources
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD.Properties.Resources.resources
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD.csproj.GenerateResource.cache
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD.GeneratedMSBuildEditorConfig.editorconfig
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD.AssemblyInfoInputs.cache
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD.AssemblyInfo.cs
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD.csproj.CoreCompileInputs.cache
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD.dll
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\refint\WpfAppMD.dll
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD.pdb
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\WpfAppMD.genruntimeconfig.cache
+G:\sources\WpfAppMD - bind\obj\Debug\net6.0-windows\ref\WpfAppMD.dll

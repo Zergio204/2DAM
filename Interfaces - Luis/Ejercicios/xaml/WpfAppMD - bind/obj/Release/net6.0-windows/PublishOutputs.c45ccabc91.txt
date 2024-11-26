@@ -1,0 +1,5 @@
+G:\sources\WpfAppMD\bin\Release\net6.0-windows\publish\WpfAppMD.exe
+G:\sources\WpfAppMD\bin\Release\net6.0-windows\publish\WpfAppMD.dll
+G:\sources\WpfAppMD\bin\Release\net6.0-windows\publish\WpfAppMD.deps.json
+G:\sources\WpfAppMD\bin\Release\net6.0-windows\publish\WpfAppMD.runtimeconfig.json
+G:\sources\WpfAppMD\bin\Release\net6.0-windows\publish\WpfAppMD.pdb

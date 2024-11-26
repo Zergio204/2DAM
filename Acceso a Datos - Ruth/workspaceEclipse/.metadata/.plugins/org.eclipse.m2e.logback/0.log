@@ -13660,3 +13660,511 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.de
 2024-11-20 10:35:58,756 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for com.sun.xml.bind:jaxb-core:2.2.11
 [ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
 
+2024-11-22 10:28:52,716 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-26 10:15:56,295 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-26 10:17:18,975 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-26 10:44:17,320 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [643])
+2024-11-26 10:44:17,324 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2024-11-26 10:44:17,325 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2024-11-26 10:44:17,325 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2024-11-26 10:44:17,325 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2024-11-26 10:44:17,325 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2024-11-26 10:44:17,325 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2024-11-26 10:44:17,325 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2024-11-26 10:44:17,325 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2024-11-26 10:44:17,325 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2024-11-26 10:44:17,326 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2024-11-26 10:44:17,327 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2024-11-26 10:44:17,327 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2024-11-26 10:44:17,327 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2024-11-26 10:44:17,327 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2024-11-26 10:44:17,327 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2024-11-26 10:44:17,327 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2024-11-26 10:44:17,327 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2024-11-26 10:44:17,327 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2024-11-26 10:44:17,327 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2024-11-26 10:44:17,327 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2024-11-26 10:44:17,328 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2024-11-26 10:44:17,329 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2024-11-26 10:44:17,329 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2024-11-26 10:44:17,330 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [16])
+2024-11-26 10:44:17,331 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\com.google.guava_33.3.0.jre.jar
+2024-11-26 10:44:17,331 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1008])
+2024-11-26 10:44:17,331 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\slf4j.api_2.0.16.jar
+2024-11-26 10:44:17,331 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [1015])
+2024-11-26 10:44:17,331 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-11-26 10:44:17,331 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1014])
+2024-11-26 10:44:17,331 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2024-11-26 10:44:17,331 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2024-11-26 10:44:17,331 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.apache.commons.cli_1.9.0.jar
+2024-11-26 10:44:17,331 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-11-26 10:44:17,332 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-11-26 10:44:17,332 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-11-26 10:44:17,332 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\eclipseRuth\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-11-26 10:44:17,340 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\matmense\AppData\Local\Temp\m2e-archetypeGenerator10292002700196172976":
+2024-11-26 10:44:17,344 [Worker-32: Launching mavenrun-bf2c04d4-a9bc-4f55-87a5-bea6817b8b8e] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.5 -DgroupId=gregoriofer.com -DartifactId=ManejoFicheros -Dversion=0.0.1-SNAPSHOT -Dpackage=gregoriofer.com.ManejoFicheros -DoutputDirectory="C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse" -Dstyle.color=always -U archetype:generate
+2024-11-26 10:44:38,516 [Worker-29: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\ManejoFicheros\pom.xml
+2024-11-26 10:44:40,614 [Worker-29: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.com:ManejoFicheros:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\ManejoFicheros\pom.xml.
+2024-11-26 10:44:43,107 [Worker-29: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManejoFicheros/src/main/java
+2024-11-26 10:44:43,109 [Worker-29: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManejoFicheros/src/main/resources
+2024-11-26 10:44:43,110 [Worker-29: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManejoFicheros/src/test/java
+2024-11-26 10:44:43,111 [Worker-29: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManejoFicheros/src/test/resources
+2024-11-26 10:44:45,664 [Worker-29: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2024-11-26 10:44:46,979 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:44:46,986 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:44:47,761 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:44:47,766 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:44:48,289 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:44:48,294 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:44:48,719 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:44:48,725 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:44:49,164 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:44:49,170 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:44:49,543 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:44:49,550 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:44:49,703 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:44:49,706 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:44:50,261 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:44:50,267 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:44:50,700 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:44:50,707 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:44:50,871 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\ManejoFicheros\src\main\resources
+2024-11-26 10:44:50,876 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\ManejoFicheros\src\test\resources
+2024-11-26 10:44:51,031 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:44:51,035 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:44:52,414 [Worker-32: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.21.0-GA during dependency collection step for project (use -X to see details)
+2024-11-26 10:44:53,969 [Worker-32: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2024-11-26 10:44:55,131 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for com.sun.xml.bind:jaxb-impl:2.2.11
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2024-11-26 10:44:55,149 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for com.sun.xml.bind:jaxb-core:2.2.11
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2024-11-26 10:44:58,130 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:44:58,131 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2024-11-26 10:44:58,162 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:44:58,163 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\config\${jboss}
+2024-11-26 10:44:58,166 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:44:58,166 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-26 10:44:58,182 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:44:58,182 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\config\${jboss}
+2024-11-26 10:44:58,186 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:44:58,186 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-26 10:44:58,204 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:44:58,204 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\config\${jboss}
+2024-11-26 10:44:58,207 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:44:58,208 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\config\${jboss}
+2024-11-26 10:44:58,210 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:44:58,210 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-26 10:44:58,223 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:44:58,223 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-26 10:45:02,466 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Configured Artifact: org.entando.entando:entando-admin-console:?:war
+2024-11-26 10:45:02,470 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Unpacking C:\Users\matmense\.m2\repository\org\entando\entando\entando-admin-console\5.0.3\entando-admin-console-5.0.3.war to C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\webapp with includes "WEB-INF/aps/jsp/internalservlet/api/**/*.jsp" and excludes ""
+2024-11-26 10:45:02,667 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-26 10:45:02,668 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2024-11-26 10:45:02,670 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-26 10:45:02,670 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF
+2024-11-26 10:45:02,730 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-26 10:45:02,731 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-26 10:45:02,735 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:45:02,735 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2024-11-26 10:45:02,757 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 10:45:02,757 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\config\development-windows
+2024-11-26 10:45:03,660 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:45:03,664 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:45:45,123 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:45:45,126 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:45:58,882 [Worker-37: Building Project ManejoFicheros] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:45:58,890 [Worker-37: Building Project ManejoFicheros] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:46:02,514 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:46:02,517 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:46:11,198 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:46:11,203 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 10:54:11,860 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 10:54:11,863 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:27:16,097 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-26 11:31:07,958 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregorio.local:EXAMEN1_SERGIO_MATURANAMENA:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\EXAMEN1_SERGIO_MATURANAMENA\pom.xml.
+2024-11-26 11:31:09,114 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:31:09,120 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:31:10,676 [Worker-28: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.21.0-GA during dependency collection step for project (use -X to see details)
+2024-11-26 11:31:10,962 [Worker-28: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2024-11-26 11:31:11,297 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for com.sun.xml.bind:jaxb-impl:2.2.11
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2024-11-26 11:31:11,304 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for com.sun.xml.bind:jaxb-core:2.2.11
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2024-11-26 11:32:47,077 [Worker-29: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-26 11:32:47,167 [Worker-29: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gf:Reto1Grupo:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Reto1Grupo\pom.xml.
+2024-11-26 11:32:47,927 [Worker-29: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Reto1Grupo/src/main/java
+2024-11-26 11:32:47,930 [Worker-29: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Reto1Grupo/src/main/resources
+2024-11-26 11:32:47,930 [Worker-29: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Reto1Grupo/src/test/java
+2024-11-26 11:32:47,932 [Worker-29: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Reto1Grupo/src/test/resources
+2024-11-26 11:32:48,973 [Worker-29: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 1,00 sec 
+2024-11-26 11:32:49,021 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Reto1Grupo\src\main\resources
+2024-11-26 11:32:49,025 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Reto1Grupo\src\test\resources
+2024-11-26 11:32:50,072 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Reto1Grupo\src\main\resources
+2024-11-26 11:32:50,074 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Reto1Grupo\src\test\resources
+2024-11-26 11:33:27,024 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:33:27,027 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:33:40,069 [Worker-30: Building Project Reto1Grupo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:33:40,073 [Worker-30: Building Project Reto1Grupo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:33:43,213 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:33:43,217 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:05,942 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-26 11:34:06,466 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.com:E10_APP_JEE_ACCESO_CONSULTORA:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\E10_APP_JEE_ACCESO_CONSULTORA\pom.xml.
+2024-11-26 11:34:06,530 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.local:E3:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\E3\pom.xml.
+2024-11-26 11:34:06,579 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.local:E6_EVENTOS_FILTROS:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\E6_EVENTOS_FILTROS\pom.xml.
+2024-11-26 11:34:06,627 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.com:E8_APP_JEE_ELECCION_DELEGADO_GF:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\E8_APP_JEE_ELECCION_DELEGADO_GF\pom.xml.
+2024-11-26 11:34:06,676 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.com:E9_APP_JEE_GESTION_DE_INCIDENCIAS:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\E9_APP_JEE_GESTION_DE_INCIDENCIAS\pom.xml.
+2024-11-26 11:34:06,722 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.com:Ej7_APP_JEE_RECOGIDA_DE_DATOS:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Ej7_APP_JEE_RECOGIDA_DE_DATOS\pom.xml.
+2024-11-26 11:34:06,775 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gf:Ejercicio1:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Ejercicio1\pom.xml.
+2024-11-26 11:34:06,826 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.local:Ejercicio4:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Ejercicio4\pom.xml.
+2024-11-26 11:34:06,873 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.local:Ejercicio5:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Ejercicio5\pom.xml.
+2024-11-26 11:34:06,923 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregorio.local:EXAMEN1_SERGIO_MATURANAMENA:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\EXAMEN1_SERGIO_MATURANAMENA\pom.xml.
+2024-11-26 11:34:06,975 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gf:example-webapp:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\example-webapp\pom.xml.
+2024-11-26 11:34:07,024 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.gf:Reto1Grupo:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Reto1Grupo\pom.xml.
+2024-11-26 11:34:07,097 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.local:Tarea2_Contexto:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Tarea2_Contexto\pom.xml.
+2024-11-26 11:34:07,167 [Worker-31: Updating Maven Project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.21.0-GA during dependency collection step for project (use -X to see details)
+2024-11-26 11:34:07,267 [Worker-31: Updating Maven Project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2024-11-26 11:34:07,365 [Worker-31: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for com.sun.xml.bind:jaxb-impl:2.2.11
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2024-11-26 11:34:07,368 [Worker-31: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for com.sun.xml.bind:jaxb-core:2.2.11
+[ERROR] 'dependencyManagement.dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${tools.jar} @ 
+
+2024-11-26 11:34:08,301 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gregoriofer.local:Webapp:0.0.1-SNAPSHOT @ C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\pom.xml.
+2024-11-26 11:34:14,120 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E10_APP_JEE_ACCESO_CONSULTORA/src/main/java
+2024-11-26 11:34:14,121 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E10_APP_JEE_ACCESO_CONSULTORA/src/main/resources
+2024-11-26 11:34:14,134 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E10_APP_JEE_ACCESO_CONSULTORA/src/test/java
+2024-11-26 11:34:14,135 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E10_APP_JEE_ACCESO_CONSULTORA/src/test/resources
+2024-11-26 11:34:14,443 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E3/src/main/java
+2024-11-26 11:34:14,444 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E3/src/main/resources
+2024-11-26 11:34:14,449 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E3/src/test/java
+2024-11-26 11:34:14,450 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E3/src/test/resources
+2024-11-26 11:34:14,694 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E6_EVENTOS_FILTROS/src/main/java
+2024-11-26 11:34:14,696 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E6_EVENTOS_FILTROS/src/main/resources
+2024-11-26 11:34:14,702 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E6_EVENTOS_FILTROS/src/test/java
+2024-11-26 11:34:14,703 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E6_EVENTOS_FILTROS/src/test/resources
+2024-11-26 11:34:14,910 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E8_APP_JEE_ELECCION_DELEGADO_GF/src/main/java
+2024-11-26 11:34:14,911 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E8_APP_JEE_ELECCION_DELEGADO_GF/src/main/resources
+2024-11-26 11:34:14,917 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E8_APP_JEE_ELECCION_DELEGADO_GF/src/test/java
+2024-11-26 11:34:14,918 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E8_APP_JEE_ELECCION_DELEGADO_GF/src/test/resources
+2024-11-26 11:34:15,094 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E9_APP_JEE_GESTION_DE_INCIDENCIAS/src/main/java
+2024-11-26 11:34:15,095 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E9_APP_JEE_GESTION_DE_INCIDENCIAS/src/main/resources
+2024-11-26 11:34:15,101 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E9_APP_JEE_GESTION_DE_INCIDENCIAS/src/test/java
+2024-11-26 11:34:15,102 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E9_APP_JEE_GESTION_DE_INCIDENCIAS/src/test/resources
+2024-11-26 11:34:15,249 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ej7_APP_JEE_RECOGIDA_DE_DATOS/src/main/java
+2024-11-26 11:34:15,250 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ej7_APP_JEE_RECOGIDA_DE_DATOS/src/main/resources
+2024-11-26 11:34:15,256 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ej7_APP_JEE_RECOGIDA_DE_DATOS/src/test/java
+2024-11-26 11:34:15,257 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ej7_APP_JEE_RECOGIDA_DE_DATOS/src/test/resources
+2024-11-26 11:34:15,460 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ejercicio1/src/main/java
+2024-11-26 11:34:15,461 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejercicio1/src/main/resources
+2024-11-26 11:34:15,461 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ejercicio1/src/test/java
+2024-11-26 11:34:15,462 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejercicio1/src/test/resources
+2024-11-26 11:34:16,265 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ejercicio4/src/main/java
+2024-11-26 11:34:16,266 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejercicio4/src/main/resources
+2024-11-26 11:34:16,274 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ejercicio4/src/test/java
+2024-11-26 11:34:16,275 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejercicio4/src/test/resources
+2024-11-26 11:34:16,490 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ejercicio5/src/main/java
+2024-11-26 11:34:16,491 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejercicio5/src/main/resources
+2024-11-26 11:34:16,497 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ejercicio5/src/test/java
+2024-11-26 11:34:16,498 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejercicio5/src/test/resources
+2024-11-26 11:34:16,733 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EXAMEN1_SERGIO_MATURANAMENA/src/main/java
+2024-11-26 11:34:16,734 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EXAMEN1_SERGIO_MATURANAMENA/src/main/resources
+2024-11-26 11:34:16,742 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EXAMEN1_SERGIO_MATURANAMENA/src/test/java
+2024-11-26 11:34:16,743 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EXAMEN1_SERGIO_MATURANAMENA/src/test/resources
+2024-11-26 11:34:16,931 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /example-webapp/src/main/java
+2024-11-26 11:34:16,932 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /example-webapp/src/main/resources
+2024-11-26 11:34:16,932 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /example-webapp/src/test/java
+2024-11-26 11:34:16,933 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /example-webapp/src/test/resources
+2024-11-26 11:34:17,012 [Worker-31: Updating Maven Project] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure example-webapp
+org.eclipse.m2e.wtp.MarkedException: Unable to configure example-webapp
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:92)
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:127)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:506)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:500)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$4(ProjectConfigurationManager.java:426)
+	at java.base/java.util.Collection.removeIf(Collection.java:583)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:414)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:340)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1053)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2451)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2476)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339)
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:138)
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:88)
+	... 18 common frames omitted
+2024-11-26 11:34:17,104 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Reto1Grupo/src/main/java
+2024-11-26 11:34:17,105 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Reto1Grupo/src/main/resources
+2024-11-26 11:34:17,112 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Reto1Grupo/src/test/java
+2024-11-26 11:34:17,113 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Reto1Grupo/src/test/resources
+2024-11-26 11:34:17,320 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tarea2_Contexto/src/main/java
+2024-11-26 11:34:17,321 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Tarea2_Contexto/src/main/resources
+2024-11-26 11:34:17,328 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tarea2_Contexto/src/test/java
+2024-11-26 11:34:17,329 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Tarea2_Contexto/src/test/resources
+2024-11-26 11:34:17,823 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Webapp/src/main/java
+2024-11-26 11:34:17,823 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Webapp/src/main/resources
+2024-11-26 11:34:17,824 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Webapp/src/main/java overlaps with sources folder /Webapp/src/main/java
+2024-11-26 11:34:17,825 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Webapp/src/main/tld
+2024-11-26 11:34:17,825 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Webapp/src/test/java
+2024-11-26 11:34:17,826 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Webapp/src/test/resources
+2024-11-26 11:34:19,334 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for E10_APP_JEE_ACCESO_CONSULTORA
+2024-11-26 11:34:19,386 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for E3
+2024-11-26 11:34:19,415 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for E6_EVENTOS_FILTROS
+2024-11-26 11:34:19,460 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for E8_APP_JEE_ELECCION_DELEGADO_GF
+2024-11-26 11:34:19,498 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for E9_APP_JEE_GESTION_DE_INCIDENCIAS
+2024-11-26 11:34:19,532 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ej7_APP_JEE_RECOGIDA_DE_DATOS
+2024-11-26 11:34:19,567 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ejercicio1
+2024-11-26 11:34:19,591 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ejercicio4
+2024-11-26 11:34:19,611 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ejercicio5
+2024-11-26 11:34:19,635 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for EXAMEN1_SERGIO_MATURANAMENA
+2024-11-26 11:34:19,670 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for example-webapp
+2024-11-26 11:34:19,699 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Reto1Grupo
+2024-11-26 11:34:19,732 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Tarea2_Contexto
+2024-11-26 11:34:19,776 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Webapp
+2024-11-26 11:34:20,194 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 14 poms: local refresh takes 0,00 sec, refresh facades takes 7,00 sec, update config takes 4,00 sec 
+2024-11-26 11:34:20,420 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:20,424 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:20,425 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of E10_APP_JEE_ACCESO_CONSULTORA
+2024-11-26 11:34:20,426 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for E10_APP_JEE_ACCESO_CONSULTORA
+2024-11-26 11:34:20,725 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:20,730 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:20,730 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of E3
+2024-11-26 11:34:20,731 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for E3
+2024-11-26 11:34:20,942 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:20,946 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:20,947 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of E6_EVENTOS_FILTROS
+2024-11-26 11:34:20,947 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for E6_EVENTOS_FILTROS
+2024-11-26 11:34:21,133 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:21,154 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:21,155 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of E8_APP_JEE_ELECCION_DELEGADO_GF
+2024-11-26 11:34:21,155 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for E8_APP_JEE_ELECCION_DELEGADO_GF
+2024-11-26 11:34:21,318 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:21,323 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:21,324 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of E9_APP_JEE_GESTION_DE_INCIDENCIAS
+2024-11-26 11:34:21,324 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for E9_APP_JEE_GESTION_DE_INCIDENCIAS
+2024-11-26 11:34:21,510 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:21,515 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:21,515 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of EXAMEN1_SERGIO_MATURANAMENA
+2024-11-26 11:34:21,515 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for EXAMEN1_SERGIO_MATURANAMENA
+2024-11-26 11:34:21,664 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:21,668 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:21,669 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ej7_APP_JEE_RECOGIDA_DE_DATOS
+2024-11-26 11:34:21,669 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ej7_APP_JEE_RECOGIDA_DE_DATOS
+2024-11-26 11:34:21,861 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:21,865 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:21,883 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ejercicio1
+2024-11-26 11:34:21,884 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ejercicio1
+2024-11-26 11:34:22,098 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:22,103 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:22,104 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ejercicio4
+2024-11-26 11:34:22,104 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ejercicio4
+2024-11-26 11:34:22,289 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:22,294 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:22,295 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ejercicio5
+2024-11-26 11:34:22,295 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ejercicio5
+2024-11-26 11:34:22,367 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:22,370 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:22,371 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Reto1Grupo
+2024-11-26 11:34:22,371 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Reto1Grupo
+2024-11-26 11:34:22,521 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:22,525 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:22,525 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Tarea2_Contexto
+2024-11-26 11:34:22,526 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Tarea2_Contexto
+2024-11-26 11:34:22,629 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:22,630 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2024-11-26 11:34:22,669 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:22,669 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\config\${jboss}
+2024-11-26 11:34:22,672 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:22,672 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-26 11:34:22,678 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:22,679 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\config\${jboss}
+2024-11-26 11:34:22,682 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:22,682 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-26 11:34:22,693 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:22,693 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\config\${jboss}
+2024-11-26 11:34:22,697 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:22,697 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\config\${jboss}
+2024-11-26 11:34:22,699 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:22,700 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-26 11:34:22,707 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:22,707 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-26 11:34:23,561 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Configured Artifact: org.entando.entando:entando-admin-console:?:war
+2024-11-26 11:34:23,565 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Unpacking C:\Users\matmense\.m2\repository\org\entando\entando\entando-admin-console\5.0.3\entando-admin-console-5.0.3.war to C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\webapp with includes "WEB-INF/aps/jsp/internalservlet/api/**/*.jsp" and excludes ""
+2024-11-26 11:34:23,741 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-26 11:34:23,742 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2024-11-26 11:34:23,760 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-11-26 11:34:23,760 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF
+2024-11-26 11:34:23,797 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating liverebel.xml
+2024-11-26 11:34:23,810 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-26 11:34:23,811 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-26 11:34:23,816 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:23,817 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2024-11-26 11:34:23,825 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-26 11:34:23,825 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\matmense\Desktop\2DAM\Acceso a Datos - Ruth\workspaceEclipse\Webapp\src\main\config\development-windows
+2024-11-26 11:34:23,826 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Webapp
+2024-11-26 11:34:23,826 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Webapp
+2024-11-26 11:34:24,212 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:24,217 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:24,217 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of example-webapp
+2024-11-26 11:34:24,217 [Worker-12: Building Project E10_APP_JEE_ACCESO_CONSULTORA] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for example-webapp
+2024-11-26 11:34:24,451 [Worker-35: Building Project E3] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:24,453 [Worker-35: Building Project E3] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:24,566 [Worker-31: Building Project E6_EVENTOS_FILTROS] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:24,569 [Worker-31: Building Project E6_EVENTOS_FILTROS] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:24,614 [Worker-34: Building Project E8_APP_JEE_ELECCION_DELEGADO_GF] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:24,616 [Worker-34: Building Project E8_APP_JEE_ELECCION_DELEGADO_GF] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:24,665 [Worker-31: Building Project E9_APP_JEE_GESTION_DE_INCIDENCIAS] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:24,668 [Worker-31: Building Project E9_APP_JEE_GESTION_DE_INCIDENCIAS] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:24,717 [Worker-32: Building Project Ej7_APP_JEE_RECOGIDA_DE_DATOS] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:24,720 [Worker-32: Building Project Ej7_APP_JEE_RECOGIDA_DE_DATOS] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:24,797 [Worker-12: Building Project Ejercicio1] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:24,800 [Worker-12: Building Project Ejercicio1] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:24,885 [Worker-34: Building Project Ejercicio4] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:24,888 [Worker-34: Building Project Ejercicio4] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:24,954 [Worker-32: Building Project Ejercicio5] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:24,958 [Worker-32: Building Project Ejercicio5] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:25,031 [Worker-34: Building Project EXAMEN1_SERGIO_MATURANAMENA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:25,034 [Worker-34: Building Project EXAMEN1_SERGIO_MATURANAMENA] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:25,117 [Worker-34: Building Project Reto1Grupo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:25,120 [Worker-34: Building Project Reto1Grupo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:25,213 [Worker-34: Building Project Tarea2_Contexto] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:25,216 [Worker-34: Building Project Tarea2_Contexto] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:34:29,516 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:34:29,518 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:36:31,576 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:36:31,580 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:37:18,612 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:37:18,614 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:37:34,266 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:37:34,269 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:38:04,037 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:38:04,039 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:38:18,225 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:38:18,227 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:38:56,883 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:38:56,886 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:38:59,536 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:38:59,538 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:39:06,698 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:39:06,702 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:39:14,914 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:39:14,916 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:42:04,254 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:42:04,257 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:47:45,031 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:47:45,034 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:47:57,688 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:47:57,690 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:48:37,931 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:48:37,933 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:50:58,809 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:50:58,812 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:51:31,762 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:51:31,766 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:51:45,490 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:51:45,492 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:51:53,359 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:51:53,361 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:51:55,927 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:51:55,929 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:52:13,003 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:52:13,007 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:52:52,877 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:52:52,880 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:52:54,963 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:52:54,965 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:54:11,458 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:54:11,461 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:54:36,887 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:54:36,889 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:54:38,040 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:54:38,042 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:55:27,764 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:55:27,767 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:55:56,987 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:55:56,990 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:57:06,349 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:57:06,351 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 11:57:29,739 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 11:57:29,742 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:00:37,798 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:00:37,800 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:00:48,684 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:00:48,686 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:01:09,502 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:01:09,504 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:02:00,312 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:02:00,315 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:02:14,148 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:02:14,151 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:02:22,313 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:02:22,317 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:02:24,423 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:02:24,427 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:04:33,058 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:04:33,060 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:05:26,488 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:05:26,490 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:05:57,518 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:05:57,521 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:06:24,420 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:06:24,423 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:06:26,609 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:06:26,611 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:06:28,945 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:06:28,949 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:06:46,747 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:06:46,749 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:11:10,448 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:11:10,453 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:12:24,698 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:12:24,705 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:12:33,088 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:12:33,093 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:12:40,878 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:12:40,885 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:13:47,672 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:13:47,677 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:15:06,000 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:15:06,002 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:15:16,102 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:15:16,107 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-11-26 12:16:00,653 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-26 12:16:00,655 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes

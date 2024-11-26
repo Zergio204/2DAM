@@ -60,6 +60,7 @@
 			<item value="name"/>
 		</list>
 		<list key="artifactId">
+			<item value="Ejem11_Callable"/>
 			<item value="Ejer09_ProductorConsumidorBanco"/>
 			<item value="Ejer8_ProductorConsumidorProfesor"/>
 			<item value="Ejer7_WaitNotify2"/>
