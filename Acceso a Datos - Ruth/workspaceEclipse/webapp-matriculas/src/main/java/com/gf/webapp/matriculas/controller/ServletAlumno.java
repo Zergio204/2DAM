@@ -79,14 +79,20 @@ public class ServletAlumno extends HttpServlet {
 					break;
 				}
 				case "Baja": {
+					//Llamada a la LN
+					msj = AlumnoLN.baja(a);
 					
 					break;
 				}
 				case "Consulta": {
+					//Llamada a la LN
+					Alumno alumno = AlumnoLN.consulta(a);
 					
 					break;
 				}
 				case "Actualiza": {
+					//Llamada a la LN
+					msj = AlumnoLN.actualiza(a);
 					
 					break;
 				}

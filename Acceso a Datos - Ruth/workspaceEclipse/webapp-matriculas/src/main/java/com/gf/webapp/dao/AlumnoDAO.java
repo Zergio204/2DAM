@@ -44,5 +44,31 @@ public class AlumnoDAO {
 		return alumno;
 		
 	}
+
+	public static void delete(Alumno a) throws SQLException {
+	    String sql = "DELETE FROM matriculas.alumnos WHERE nMatricula = ?";
+
+	    try (Connection conn = ConexionBD.getConnection()) {
+	        PreparedStatement ps = conn.prepareStatement(sql);
+	        ps.setString(1, a.getIdmatricula());
+	        ps.executeUpdate();
+	    }
+	}
+
+
+	public static void update(Alumno a) throws SQLException {
+	    String sql = "UPDATE matriculas.alumnos SET nombre = ?, apellidos = ?, curso = ?, ciclo = ? WHERE nMatricula = ?";
+
+	    try (Connection conn = ConexionBD.getConnection()) {
+	        PreparedStatement ps = conn.prepareStatement(sql);
+	        ps.setString(1, a.getNombre());
+	        ps.setString(2, a.getApellidos());
+	        ps.setString(3, a.getCurso());
+	        ps.setString(4, a.getCiclo());
+	        ps.setString(5, a.getIdmatricula());
+	        ps.executeUpdate();
+	    }
+	}
+
 	
 }
