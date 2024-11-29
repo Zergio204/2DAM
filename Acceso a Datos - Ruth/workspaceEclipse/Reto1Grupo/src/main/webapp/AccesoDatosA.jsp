@@ -9,24 +9,33 @@
 	</head>
 	
 	<body>
-	
-	<%List<String[]> data = (List<String[]>) request.getAttribute("data");%>
-	
-		<h1>DATOS</h1>
-		
-		<table border = "1">
-			<%for(String[] dato : data){ %>
-			
-			<tr>
-				<td>DATO 1</td>
-			</tr>
-			<tr>
-				<td>Dato 1</td>
-			</tr>
-			
-			
-			<%} %>
-			
-		</table>
-	</body>
+    <h1>DATOS</h1>
+    
+    <%
+        List<String[]> data = (List<String[]>) request.getAttribute("data");
+        if (data != null && !data.isEmpty()) { 
+    %>
+        <table border="1">
+        
+            <tr>
+                <% for (String cell : data.get(0)) { %>
+                    <th><%= cell %></th>
+                <% } %>
+            </tr>
+            
+            <% for (int i = 1; i < data.size(); i++) { %>
+                <tr>
+                    <% for (String cell : data.get(i)) { %>
+                        <td><%= cell %></td>
+                    <% } %>
+                </tr>
+            <% } %>
+        </table>
+    <%
+        }
+    %>
+    
+</body>
+
+
 </html>

@@ -67,3 +67,29 @@ G:\sources\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\refint\WpfAppPlan
 G:\sources\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.pdb
 G:\sources\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.genruntimeconfig.cache
 G:\sources\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\ref\WpfAppPlantillaListas.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\bin\Debug\net8.0-windows\WpfAppPlantillaListas.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\bin\Debug\net8.0-windows\WpfAppPlantillaListas.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\bin\Debug\net8.0-windows\WpfAppPlantillaListas.runtimeconfig.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\bin\Debug\net8.0-windows\WpfAppPlantillaListas.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\bin\Debug\net8.0-windows\WpfAppPlantillaListas.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.csproj.AssemblyReference.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.sourcelink.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPl.E0733383.Up2Date
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\refint\WpfAppPlantillaListas.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\WpfAppPlantillaListas.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppPlantillaListasVMeID\obj\Debug\net8.0-windows\ref\WpfAppPlantillaListas.dll

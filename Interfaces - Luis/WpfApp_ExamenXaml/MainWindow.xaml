@@ -1,0 +1,104 @@
+﻿<Window x:Class="WpfApp_ExamenXaml.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_ExamenXaml"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <local:ServicioDatos x:Key="ServicioDatos"/>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Crear una Plantilla para los RadioButton, para que sean Elipses de 150 de diametro con una letra en el centro, un color de fondo que cuando clickes cambie de color, un borde de color gris y que cuando pases por encima cambie de color a un color más claro-->
+        <Grid.Resources>
+            <Style TargetType="RadioButton">
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="RadioButton">
+                            <Grid>
+                                <Ellipse x:Name="ellipse" Width="150" Height="150" 
+                                         Stroke="LightGray" StrokeThickness="5"/>
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Grid>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="IsChecked" Value="True">
+                                    <Setter TargetName="ellipse" Property="Fill" Value="Green"/>
+                                </Trigger>
+                                <Trigger Property="IsChecked" Value="False">
+                                    <Setter TargetName="ellipse" Property="Fill" Value="Red"/>
+                                </Trigger>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter TargetName="ellipse" Property="Fill">
+                                        <Setter.Value>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="Yellow"/>
+                                                <GradientStop Color="White" Offset="1"/>
+                                            </LinearGradientBrush>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </Grid.Resources>
+
+        <TextBlock FontSize="{Binding ElementName=slider, Path=Value}" 
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Center">
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Setter Property="Text" Value="CPrFP Gregorio Fernandez"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=radioButtonNombre, Path=IsChecked}" Value="True">
+                            <Setter Property="Text" Value="{Binding ElementName=listbox, Path=SelectedItem.Nombre}"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=radioButtonTelefono, Path=IsChecked}" Value="True">
+                            <Setter Property="Text" Value="{Binding ElementName=listbox, Path=SelectedItem.Telefono}"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+
+        <Slider x:Name="slider" Minimum="8" Maximum="36" 
+                Value="{Binding ElementName=textBox, Path=Text}" 
+                Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"
+                VerticalAlignment="Center" IsSnapToTickEnabled="True"/>
+
+        <TextBox x:Name="textBox" Background="Yellow" 
+                 Text="{Binding ElementName=slider, Path=Value}" 
+                 Grid.Row="1" Grid.Column="2" 
+                 VerticalAlignment="Center" TextAlignment="Center"/>
+
+        <RadioButton x:Name="radioButtonNombre" Content="N" 
+                     Grid.Row="2" Grid.Column="0" 
+                     VerticalAlignment="Center" HorizontalAlignment="Right"
+                     ToolTip="Nombre" FontSize="60" Foreground="White"/>
+
+        <RadioButton x:Name="radioButtonTelefono" Content="T" 
+                     Grid.Row="2" Grid.Column="1" 
+                     VerticalAlignment="Center" HorizontalAlignment="Left"
+                     ToolTip="Telefono" FontSize="60" Foreground="White"/>
+
+        <ListBox x:Name="listbox" 
+                 ItemsSource="{Binding Source={StaticResource ServicioDatos}, Path=Personas}" 
+                 DisplayMemberPath="Nombre" 
+                 Grid.Row="2" Grid.Column="2" 
+                 VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>

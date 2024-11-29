@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppEncabezadoTextBox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappencabezadotextbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappencabezadotextbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappencabezadotextbox\\mitextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|solutionrelative:mitextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappencabezadotextbox\\mitextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|solutionrelative:mitextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappencabezadotextbox\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappencabezadotextbox\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappencabezadotextbox\\mitextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|solutionrelative:mitextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappencabezadotextbox\\mitextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|solutionrelative:mitextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappencabezadotextbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA994A0-EAE3-45C2-B329-FF4470DF06F1}|WpfAppEncabezadoTextBox.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Window1.xaml.cs",
               "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppEncabezadoTextBox\\Window1.xaml.cs",
               "RelativeDocumentMoniker": "Window1.xaml.cs",
@@ -54,18 +54,20 @@
               "RelativeToolTip": "Window1.xaml.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:59:31.737Z"
+              "WhenOpened": "2024-11-20T07:59:31.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Window1.xaml",
               "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppEncabezadoTextBox\\Window1.xaml",
               "RelativeDocumentMoniker": "Window1.xaml",
               "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppEncabezadoTextBox\\Window1.xaml",
               "RelativeToolTip": "Window1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-20T07:59:11.189Z"
+              "WhenOpened": "2024-11-20T07:59:11.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,39 +79,42 @@
               "RelativeToolTip": "MiTextBox.xaml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T05:19:03.575Z"
+              "WhenOpened": "2024-11-19T05:19:03.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MiTextBox.xaml",
               "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppEncabezadoTextBox\\MiTextBox.xaml",
               "RelativeDocumentMoniker": "MiTextBox.xaml",
               "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppEncabezadoTextBox\\MiTextBox.xaml",
               "RelativeToolTip": "MiTextBox.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-19T05:05:36.476Z"
+              "WhenOpened": "2024-11-19T05:05:36.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppEncabezadoTextBox\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppEncabezadoTextBox\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-19T04:52:00.071Z"
+              "WhenOpened": "2024-11-19T04:52:00.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppEncabezadoTextBox\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppEncabezadoTextBox\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowBoAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T04:51:54.856Z",
               "EditorCaption": ""

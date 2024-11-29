@@ -18,3 +18,24 @@ G:\sources\WpfAppEfectoBotones\obj\Debug\net7.0-windows\refint\WpfAppEfectoBoton
 G:\sources\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.pdb
 G:\sources\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.genruntimeconfig.cache
 G:\sources\WpfAppEfectoBotones\obj\Debug\net7.0-windows\ref\WpfAppEfectoBotones.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\bin\Debug\net7.0-windows\WpfAppEfectoBotones.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\bin\Debug\net7.0-windows\WpfAppEfectoBotones.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\bin\Debug\net7.0-windows\WpfAppEfectoBotones.runtimeconfig.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\bin\Debug\net7.0-windows\WpfAppEfectoBotones.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\bin\Debug\net7.0-windows\WpfAppEfectoBotones.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.sourcelink.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\refint\WpfAppEfectoBotones.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\WpfAppEfectoBotones.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppEfectoBotones\obj\Debug\net7.0-windows\ref\WpfAppEfectoBotones.dll

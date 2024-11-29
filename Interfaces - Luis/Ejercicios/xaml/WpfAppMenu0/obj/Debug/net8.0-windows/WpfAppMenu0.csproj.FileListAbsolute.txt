@@ -1,0 +1,53 @@
+G:\sources\WpfAppMenu0\bin\Debug\net8.0-windows\WpfAppMenu0.exe
+G:\sources\WpfAppMenu0\bin\Debug\net8.0-windows\WpfAppMenu0.deps.json
+G:\sources\WpfAppMenu0\bin\Debug\net8.0-windows\WpfAppMenu0.runtimeconfig.json
+G:\sources\WpfAppMenu0\bin\Debug\net8.0-windows\WpfAppMenu0.dll
+G:\sources\WpfAppMenu0\bin\Debug\net8.0-windows\WpfAppMenu0.pdb
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\App.g.cs
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0_MarkupCompile.cache
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0_MarkupCompile.lref
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\MainWindow.baml
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.g.resources
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.GeneratedMSBuildEditorConfig.editorconfig
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.AssemblyInfoInputs.cache
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.AssemblyInfo.cs
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.csproj.CoreCompileInputs.cache
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.dll
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\refint\WpfAppMenu0.dll
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.pdb
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.genruntimeconfig.cache
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\ref\WpfAppMenu0.dll
+G:\sources\WpfAppMenu0\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+G:\sources\WpfAppMenu0\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+G:\sources\WpfAppMenu0\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.csproj.AssemblyReference.cache
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\App.baml
+G:\sources\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMe.205683A7.Up2Date
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\bin\Debug\net8.0-windows\WpfAppMenu0.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\bin\Debug\net8.0-windows\WpfAppMenu0.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\bin\Debug\net8.0-windows\WpfAppMenu0.runtimeconfig.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\bin\Debug\net8.0-windows\WpfAppMenu0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\bin\Debug\net8.0-windows\WpfAppMenu0.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.csproj.AssemblyReference.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\App.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.sourcelink.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMe.205683A7.Up2Date
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\refint\WpfAppMenu0.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\WpfAppMenu0.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMenu0\obj\Debug\net8.0-windows\ref\WpfAppMenu0.dll

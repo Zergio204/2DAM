@@ -37,3 +37,43 @@ G:\sources\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f5.jpg
 G:\sources\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f6.jpg
 G:\sources\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f7.jpg
 G:\sources\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f9.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f1.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f10.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f2.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f3.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f4.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f5.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f6.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f7.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f8.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\fotos\f9.jpg
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\WpfAppMD.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\WpfAppMD.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\WpfAppMD.runtimeconfig.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\WpfAppMD.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\WpfAppMD.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\bin\Debug\net8.0-windows8.0\CommunityToolkit.Mvvm.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.csproj.AssemblyReference.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WindowFoto.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD_Content.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WindowFoto.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.Properties.Resources.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.csproj.GenerateResource.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.sourcelink.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.csproj.Up2Date
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\refint\WpfAppMD.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\WpfAppMD.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppMD - bind\obj\Debug\net8.0-windows8.0\ref\WpfAppMD.dll

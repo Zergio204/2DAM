@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfApp_lvJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fb1aeeaf21983dce2fa5ed2a22b039b48e9ef41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a0d6eaf4f5b390c05489cd17e5b9bc834b4d8e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfApp_lvJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfApp_lvJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

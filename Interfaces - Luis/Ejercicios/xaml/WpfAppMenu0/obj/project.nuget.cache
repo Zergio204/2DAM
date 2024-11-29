@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJN3d7+Vtyo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppMenu0\\WpfAppMenu0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matmense\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\matmense\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\matmense\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

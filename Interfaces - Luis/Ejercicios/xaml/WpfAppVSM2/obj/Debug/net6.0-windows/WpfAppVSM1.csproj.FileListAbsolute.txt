@@ -39,3 +39,24 @@ G:\sources\WpfAppVSM2\obj\Debug\net6.0-windows\refint\WpfAppVSM1.dll
 G:\sources\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.pdb
 G:\sources\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.genruntimeconfig.cache
 G:\sources\WpfAppVSM2\obj\Debug\net6.0-windows\ref\WpfAppVSM1.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\bin\Debug\net6.0-windows\WpfAppVSM1.exe
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\bin\Debug\net6.0-windows\WpfAppVSM1.deps.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\bin\Debug\net6.0-windows\WpfAppVSM1.runtimeconfig.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\bin\Debug\net6.0-windows\WpfAppVSM1.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\bin\Debug\net6.0-windows\WpfAppVSM1.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1_MarkupCompile.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1_MarkupCompile.lref
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.g.resources
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.AssemblyInfoInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.AssemblyInfo.cs
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.csproj.CoreCompileInputs.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.sourcelink.json
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\refint\WpfAppVSM1.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.pdb
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\WpfAppVSM1.genruntimeconfig.cache
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfAppVSM2\obj\Debug\net6.0-windows\ref\WpfAppVSM1.dll

@@ -53,7 +53,7 @@ namespace WpfAppMD {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfAppMD;V1.0.0.0;component/windowfoto.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfAppMD;component/windowfoto.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\WindowFoto.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

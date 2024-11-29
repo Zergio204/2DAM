@@ -11,6 +11,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -87,7 +88,8 @@ public class ServletFich extends HttpServlet {
 				
 				
 				case "CSV":
-					
+					writeCSV(fact1, fact2, fact3, fact4, fact5, fact6);
+					break;
 					
 				case "JSON":
 					
@@ -110,11 +112,11 @@ public class ServletFich extends HttpServlet {
 	//Metodo para leer un archivo CSV
 	private void readCSV(HttpServletRequest request) {
 		
-		File file = new File("/ArchivosDatosAbiertos/ArchivoCSV.csv");
+		File file = new File("C:\\Users\\matmense\\Desktop\\2DAM\\Acceso a Datos - Ruth\\workspaceEclipse\\Reto1Grupo\\DatosAbiertos\\datos.csv");
 		
 		List<String[]> data = new ArrayList<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader(file.getAbsolutePath()))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             String line;
 
             // Leer cada línea del archivo
@@ -133,7 +135,28 @@ public class ServletFich extends HttpServlet {
         
         request.setAttribute("data", data);
         
-        
+	}
+	
+	//Metodo para escribir un archivo CSV con los datos introducidos por el usuario
+	private void writeCSV(String fact1, String fact2, String fact3, String fact4, String fact5, String fact6) {
+
+		File file = new File("C:\\Users\\matmense\\Desktop\\2DAM\\Acceso a Datos - Ruth\\workspaceEclipse\\Reto1Grupo\\DatosAbiertos\\datos.csv");
+
+		try {
+			// Escribir en el archivo CSV
+			FileWriter writer = new FileWriter(file, true);
+			for(int i = 1; i <= 6; i++) {
+				String fact = "fact" + i;
+				writer.append(fact);
+				writer.append(",");
+			}
+			writer.append("\n");
+			 
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
 	}
 	
 }

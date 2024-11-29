@@ -18,3 +18,4 @@ C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfApp_Contened
 C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfApp_Contenedores\obj\Debug\net8.0-windows\WpfApp_Contenedores.pdb
 C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfApp_Contenedores\obj\Debug\net8.0-windows\WpfApp_Contenedores.genruntimeconfig.cache
 C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfApp_Contenedores\obj\Debug\net8.0-windows\ref\WpfApp_Contenedores.dll
+C:\Users\matmense\Desktop\2DAM\Interfaces - Luis\Ejercicios\xaml\WpfApp_Contenedores\obj\Debug\net8.0-windows\WpfApp_Contenedores.sourcelink.json

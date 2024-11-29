@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{EC600FE1-0CFC-4391-A509-EF6CE0C87D29}|WpfAppPlantillaListas.csproj|solutionrelative:mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC600FE1-0CFC-4391-A509-EF6CE0C87D29}|WpfAppPlantillaListas.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappplantillalistas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EC600FE1-0CFC-4391-A509-EF6CE0C87D29}|WpfAppPlantillaListas.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC600FE1-0CFC-4391-A509-EF6CE0C87D29}|WpfAppPlantillaListas.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappplantillalistas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC600FE1-0CFC-4391-A509-EF6CE0C87D29}|WpfAppPlantillaListas.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC600FE1-0CFC-4391-A509-EF6CE0C87D29}|WpfAppPlantillaListas.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappplantillalistas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EC600FE1-0CFC-4391-A509-EF6CE0C87D29}|WpfAppPlantillaListas.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC600FE1-0CFC-4391-A509-EF6CE0C87D29}|WpfAppPlantillaListas.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\ejercicios\\xaml\\wpfappplantillalistas\\serviciodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,16 +37,23 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppPlantillaListas\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppPlantillaListas\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T09:40:58.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T09:40:58.73Z"
             },
             {
               "$type": "Document",
@@ -58,16 +65,7 @@
               "RelativeToolTip": "Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T09:41:33.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "WhenOpened": "2024-11-07T09:41:33.388Z"
             },
             {
               "$type": "Document",
@@ -79,8 +77,7 @@
               "RelativeToolTip": "WpfAppPlantillaListas.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-13T19:12:24.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T19:12:24.123Z"
             },
             {
               "$type": "Document",
@@ -105,12 +102,11 @@
               "RelativeToolTip": "ServicioDatos.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T16:33:33.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T16:33:33.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\Ejercicios\\xaml\\WpfAppPlantillaListas\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
