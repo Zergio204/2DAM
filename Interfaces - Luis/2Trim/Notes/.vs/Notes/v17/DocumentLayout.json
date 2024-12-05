@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\notes\\notes\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|solutionrelative:notes\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\notes\\notes\\notes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|solutionrelative:notes\\notes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\notes\\notes\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|solutionrelative:notes\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\notes\\notes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|solutionrelative:notes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\notes\\notes\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|solutionrelative:notes\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\notes\\notes\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4610ACFA-D4AF-4EC8-8A15-E4A3269B0FC2}|Notes\\Notes.csproj|solutionrelative:notes\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notes",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\Notes.csproj",
+              "RelativeDocumentMoniker": "Notes\\Notes.csproj",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\Notes.csproj",
+              "RelativeToolTip": "Notes\\Notes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T10:29:33.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\NotePage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\NotePage.xaml.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\NotePage.xaml.cs",
+              "RelativeToolTip": "Notes\\NotePage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:47:23.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotePage.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\NotePage.xaml",
+              "RelativeDocumentMoniker": "Notes\\NotePage.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\NotePage.xaml",
+              "RelativeToolTip": "Notes\\NotePage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T09:29:33.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Notes\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\AppShell.xaml",
+              "RelativeToolTip": "Notes\\AppShell.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T09:21:31.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\AboutPage.xaml.cs",
+              "RelativeToolTip": "Notes\\AboutPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:17:44.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Notes\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Notes\\Notes\\AboutPage.xaml",
+              "RelativeToolTip": "Notes\\AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T09:16:56.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

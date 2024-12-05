@@ -52,27 +52,11 @@
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
 			<item value="gregoriofer.com"/>
-			<item value="gregoriofer.local"/>
-			<item value="gregoriofer."/>
 		</list>
 		<list key="name">
-			<item value="nombre"/>
-			<item value="name"/>
 		</list>
 		<list key="artifactId">
-			<item value="Ejem11_Callable"/>
-			<item value="Ejer09_ProductorConsumidorBanco"/>
-			<item value="Ejer8_ProductorConsumidorProfesor"/>
-			<item value="Ejer7_WaitNotify2"/>
-			<item value="Ejer07"/>
-			<item value="Ejem06_"/>
-			<item value="Ejer04_MatandoProcesosGrupo"/>
-			<item value="Ejem05_MatandoProcesos"/>
-			<item value="Ejer03_GruposPrioridades"/>
-			<item value="Ejem04_GruposYPrioridades"/>
-			<item value="Ejer04_MatandoProcesos"/>
-			<item value="RunableProcesos"/>
-			<item value="RunnableYPrioridades"/>
+			<item value="Ejem12_"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
