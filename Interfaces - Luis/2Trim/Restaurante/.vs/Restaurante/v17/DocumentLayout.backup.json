@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB4714-FDB6-4685-8FC4-E121E10CD3FB}|Restaurante\\Restaurante.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\restaurante\\restaurante\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDBB4714-FDB6-4685-8FC4-E121E10CD3FB}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB4714-FDB6-4685-8FC4-E121E10CD3FB}|Restaurante\\Restaurante.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\restaurante\\restaurante\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBB4714-FDB6-4685-8FC4-E121E10CD3FB}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB4714-FDB6-4685-8FC4-E121E10CD3FB}|Restaurante\\Restaurante.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\restaurante\\restaurante\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBB4714-FDB6-4685-8FC4-E121E10CD3FB}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBB4714-FDB6-4685-8FC4-E121E10CD3FB}|Restaurante\\Restaurante.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\restaurante\\restaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBB4714-FDB6-4685-8FC4-E121E10CD3FB}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Restaurante\\Restaurante\\Restaurante.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Restaurante.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Restaurante\\Restaurante\\Restaurante.cs",
+              "RelativeToolTip": "Restaurante\\Restaurante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:32:27.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Restaurante\\Restaurante\\Datos.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Datos.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Restaurante\\Restaurante\\Datos.cs",
+              "RelativeToolTip": "Restaurante\\Datos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:32:44.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Restaurante\\Restaurante\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurante\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Restaurante\\Restaurante\\MainPage.xaml.cs",
+              "RelativeToolTip": "Restaurante\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:45:04.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Restaurante\\Restaurante\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Restaurante\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Restaurante\\Restaurante\\MainPage.xaml",
+              "RelativeToolTip": "Restaurante\\MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T09:42:29.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
