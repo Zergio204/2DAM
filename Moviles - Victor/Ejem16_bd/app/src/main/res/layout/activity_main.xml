@@ -13,11 +13,23 @@
             <com.google.android.material.textfield.TextInputEditText android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/tiet_direccion" android:text="@{persona.direccion}" android:layout_margin="5dp" android:hint="Direccion"/>
         </com.google.android.material.textfield.TextInputLayout>
         <Button android:id="@+id/b_insertar" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Insertar"/>
+
+        <Button
+            android:id="@+id/b_recuperarPrimero"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recuperar Primera Persona de la BD" />
+
         <Button android:id="@+id/b_listar" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Listar"/>
         <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent" android:layout_height="wrap_content">
             <com.google.android.material.textfield.TextInputEditText android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/tiet_id" android:layout_margin="5dp" android:hint="Identificador"/>
         </com.google.android.material.textfield.TextInputLayout>
         <Button android:id="@+id/b_borrar" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Borrar por id"/>
         <Button android:id="@+id/b_actualizar" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Actualizar por id"/>
+
+        <ListView
+            android:id="@+id/lv_personas"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
     </LinearLayout>
 </layout>

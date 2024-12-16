@@ -1,7 +1,9 @@
 package com.example.ejem16_bd
 
+import android.R
 import android.os.Bundle
 import android.util.Log
+import android.widget.ArrayAdapter
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -30,6 +32,44 @@ class MainActivity : AppCompatActivity() {
             Log.d("Persona", persona.toString())
             personaDAO?.insertar(persona)
         }
+
+        binding.bRecuperarPrimero.setOnClickListener {
+            val persona = personaDAO?.recuperarUsuario(1)
+            binding.persona = persona
+        }
+
+        binding.bListar.setOnClickListener {
+            val personas = personaDAO?.listar()
+            val adaptador = ArrayAdapter(this, R.layout.simple_list_item_1, personas!!)
+            binding.lvPersonas.adapter = adaptador
+        }
+
+        binding.bBorrar.setOnClickListener {
+            val id = binding.tietId.text.toString().toInt()
+            val persona = personaDAO?.recuperarUsuario(id)
+            personaDAO?.eliminar(persona!!)
+        }
+
+        binding.bActualizar.setOnClickListener {
+            val id = binding.tietId.text.toString().toInt()
+            val persona = personaDAO?.recuperarUsuario(id)
+            persona?.nombre = binding.tietNombre.text.toString()
+            persona?.edad = binding.tietEdad.text.toString().toInt()
+            persona?.direccion = binding.tietDireccion.text.toString()
+
+            personaDAO?.actualizar(persona!!)
+
+        }
+
+        binding.lvPersonas.setOnItemClickListener{
+            adapterView, view, position, id ->
+            val persona = adapterView.getItemAtPosition(position) as Persona
+            binding.persona = persona
+
+            binding.tietId.setText(persona.id.toString())
+
+        }
+
 
     }
 }

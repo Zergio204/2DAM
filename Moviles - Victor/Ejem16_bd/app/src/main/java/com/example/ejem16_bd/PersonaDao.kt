@@ -15,11 +15,11 @@ abstract class PersonaDao {
     abstract fun recuperarUsuario(id: Int): Persona?
 
     @Insert
-    abstract fun insertar(p: Persona?)
+    abstract fun insertar(p: Persona)
 
     @Delete
-    abstract fun eliminar(p: Persona?)
+    abstract fun eliminar(p: Persona)
 
     @Update
-    abstract fun actualizar(p: Persona?)
+    abstract fun actualizar(p: Persona)
 }
