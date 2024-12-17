@@ -20,10 +20,14 @@
     <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
-    <fullyQualifiedTypeName name="com.gf.webapp.matriculas.resources.ConexionBD"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
     <fullyQualifiedTypeName name="com.gf.webapp.dao.AlumnoDAO"/>
     <fullyQualifiedTypeName name="com.gf.webapp.matriculas.entities.Alumno"/>
+    <fullyQualifiedTypeName name="javax.naming.Context"/>
+    <fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="com.gf.webapp.matriculas.resources.ConexionBD"/>
+    <fullyQualifiedTypeName name="jakarta.annotation.Resource"/>
 </qualifiedTypeNameHistroy>
