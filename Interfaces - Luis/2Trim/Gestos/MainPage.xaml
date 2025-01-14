@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Gestos" 
+             x:DataType="local:MainPageViewModel"
+             x:Class="Gestos.MainPage">
+
+    <ContentPage.BindingContext>
+        <local:MainPageViewModel/>
+    </ContentPage.BindingContext>
+    <Grid RowDefinitions="Auto,*" RowSpacing="20">
+        <Grid ColumnDefinitions="*,*,*" Margin="10" ColumnSpacing="6">
+            <Image Source="monos.jpg">
+                <Image.GestureRecognizers>
+                    <DragGestureRecognizer CanDrag="True" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Image Grid.Column="1" Background="LightGray">
+                <Image.GestureRecognizers>
+                    <DropGestureRecognizer AllowDrop="True" />
+                </Image.GestureRecognizers>
+            </Image>
+        </Grid>
+        <VerticalStackLayout Spacing="2" Grid.Row="1">
+            <Label x:Name="label1" Text="Notificación pendiente" Grid.Row="1"
+               Padding="10" HorizontalTextAlignment="Center"
+               BackgroundColor="LightGrey"
+               HorizontalOptions="Fill" >
+                <Label.GestureRecognizers>
+                    <SwipeGestureRecognizer Direction="Left" 
+                                        Command="{Binding SwipeLCommand}"
+                                        CommandParameter="{Binding Source={RelativeSource 
+                    Mode=FindAncestor,AncestorType={x:Type Label} }}"/>
+                    <SwipeGestureRecognizer Direction="Right" 
+                                        Command="{Binding SwipeRCommand}"
+                                        CommandParameter="{Binding Source={RelativeSource 
+                    Mode=FindAncestor,AncestorType={x:Type Label} }}"/>
+
+                </Label.GestureRecognizers>
+            </Label>
+            
+            
+            <Grid x:Name="gridNotifica" ColumnDefinitions="*,Auto,*">
+                <Button x:Name="botonE" Text="Eliminar" BackgroundColor="Red" Grid.Column="0"
+                        Margin="3" Command="{Binding BorrarCommand}" CommandParameter="{x:Reference label2}"
+                       HorizontalOptions="End" VerticalOptions="Center"/>
+                <Button x:Name="botonG" Text="Guardar" BackgroundColor="Green" Grid.Column="2"
+                        Margin="3" Command="{Binding GuardarCommand}" CommandParameter="{x:Reference label2}"
+                       HorizontalOptions="Start" VerticalOptions="Center"/>
+                <Label x:Name="label2" Text="NOTIFICACIÓN" Grid.Column="1"
+                       Padding="20" HorizontalTextAlignment="Center"
+                       BackgroundColor="LightGrey"
+                       HorizontalOptions="Fill">
+                    <!--<Label.GestureRecognizers>
+                        <SwipeGestureRecognizer Direction="Left" 
+                                        Command="{Binding SwipeL2Command}"
+                                        CommandParameter="{Binding Source={x:Reference botonE}}"/>
+                        <SwipeGestureRecognizer Direction="Right" 
+                                                Command="{Binding SwipeR2Command}"
+                                                CommandParameter="{Binding Source={x:Reference botonG}}"/>
+                    </Label.GestureRecognizers>-->
+                </Label>
+            </Grid>
+            
+            
+            <SwipeView Threshold="200">
+                <SwipeView.LeftItems>
+                    <SwipeItems>
+                        <SwipeItem Text="Delete"
+                       IconImageSource="delete.png"
+                       BackgroundColor="LightPink"
+                       Command="{Binding DeleteCommand}"
+                       CommandParameter="{Binding Source={x:Reference label3}}"/>
+                    </SwipeItems>
+                </SwipeView.LeftItems>
+                <SwipeView.RightItems>
+                    <SwipeItems>
+                        <SwipeItem Text="Favorite" 
+                       IconImageSource="favorite.png"
+                       BackgroundColor="LightGreen"
+                       Command="{Binding FavoriteCommand}" 
+                       CommandParameter="{Binding Source={x:Reference label3}}"/>
+                    </SwipeItems>
+                </SwipeView.RightItems>
+                <SwipeItemView>
+                    <Label x:Name="label3" Text="Notificación" 
+                       Padding="20" HorizontalTextAlignment="Center"
+                       BackgroundColor="LightGrey"
+                       HorizontalOptions="Fill"/>
+                </SwipeItemView>
+            </SwipeView>
+
+            <CollectionView x:Name="collectionView" ItemsSource="{Binding ListaTareas}" >
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="local:Tarea">
+                        <SwipeView>
+                            <SwipeView.LeftItems>
+                                <SwipeItems>
+                                    <SwipeItem Text="Delete"
+                                   IconImageSource="delete.png"
+                                   BackgroundColor="LightPink"
+                                   Command="{Binding Source={x:Reference collectionView}, 
+                                        Path=BindingContext.DeleteElementoCommand}"
+                                   CommandParameter="{Binding}" />
+                                </SwipeItems>
+                            </SwipeView.LeftItems>
+                            <Grid BackgroundColor="White" Padding="10">
+                                <Label Text="{Binding NombreTarea}"/>
+                            </Grid>
+                        </SwipeView>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </VerticalStackLayout>
+    </Grid>
+
+</ContentPage>

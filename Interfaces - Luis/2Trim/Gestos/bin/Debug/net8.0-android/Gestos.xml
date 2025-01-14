@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Gestos</name>
+    </assembly>
+    <members>
+        <member name="T:Gestos.MainPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:Gestos.MainPageViewModel.swipeLCommand">
+            <summary>The backing field for <see cref="P:Gestos.MainPageViewModel.SwipeLCommand"/>.</summary>
+        </member>
+        <member name="P:Gestos.MainPageViewModel.SwipeLCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Gestos.MainPageViewModel.SwipeL(Microsoft.Maui.Controls.Label)"/>.</summary>
+        </member>
+        <member name="F:Gestos.MainPageViewModel.swipeRCommand">
+            <summary>The backing field for <see cref="P:Gestos.MainPageViewModel.SwipeRCommand"/>.</summary>
+        </member>
+        <member name="P:Gestos.MainPageViewModel.SwipeRCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Gestos.MainPageViewModel.SwipeR(Microsoft.Maui.Controls.Label)"/>.</summary>
+        </member>
+        <member name="F:Gestos.MainPageViewModel.swipeL2Command">
+            <summary>The backing field for <see cref="P:Gestos.MainPageViewModel.SwipeL2Command"/>.</summary>
+        </member>
+        <member name="P:Gestos.MainPageViewModel.SwipeL2Command">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Gestos.MainPageViewModel.SwipeL2(Microsoft.Maui.Controls.Button)"/>.</summary>
+        </member>
+        <member name="F:Gestos.MainPageViewModel.swipeR2Command">
+            <summary>The backing field for <see cref="P:Gestos.MainPageViewModel.SwipeR2Command"/>.</summary>
+        </member>
+        <member name="P:Gestos.MainPageViewModel.SwipeR2Command">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Gestos.MainPageViewModel.SwipeR2(Microsoft.Maui.Controls.Button)"/>.</summary>
+        </member>
+        <member name="F:Gestos.MainPageViewModel.deleteCommand">
+            <summary>The backing field for <see cref="P:Gestos.MainPageViewModel.DeleteCommand"/>.</summary>
+        </member>
+        <member name="P:Gestos.MainPageViewModel.DeleteCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Gestos.MainPageViewModel.Delete(Microsoft.Maui.Controls.Label)"/>.</summary>
+        </member>
+        <member name="F:Gestos.MainPageViewModel.favoriteCommand">
+            <summary>The backing field for <see cref="P:Gestos.MainPageViewModel.FavoriteCommand"/>.</summary>
+        </member>
+        <member name="P:Gestos.MainPageViewModel.FavoriteCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Gestos.MainPageViewModel.Favorite(Microsoft.Maui.Controls.Label)"/>.</summary>
+        </member>
+        <member name="F:Gestos.MainPageViewModel.guardarCommand">
+            <summary>The backing field for <see cref="P:Gestos.MainPageViewModel.GuardarCommand"/>.</summary>
+        </member>
+        <member name="P:Gestos.MainPageViewModel.GuardarCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Gestos.MainPageViewModel.Guardar(Microsoft.Maui.Controls.Label)"/>.</summary>
+        </member>
+        <member name="F:Gestos.MainPageViewModel.borrarCommand">
+            <summary>The backing field for <see cref="P:Gestos.MainPageViewModel.BorrarCommand"/>.</summary>
+        </member>
+        <member name="P:Gestos.MainPageViewModel.BorrarCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:Gestos.MainPageViewModel.Borrar(Microsoft.Maui.Controls.Label)"/>.</summary>
+        </member>
+        <member name="F:Gestos.MainPageViewModel.deleteElementoCommand">
+            <summary>The backing field for <see cref="P:Gestos.MainPageViewModel.DeleteElementoCommand"/>.</summary>
+        </member>
+        <member name="P:Gestos.MainPageViewModel.DeleteElementoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:Gestos.MainPageViewModel.DeleteElemento(Gestos.Tarea)"/>.</summary>
+        </member>
+    </members>
+</doc>

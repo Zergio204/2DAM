@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MauiAppBindColeccion" 
+             xmlns:convert="clr-namespace:MauiAppBindColeccion.Converters"
+             BackgroundColor="{OnPlatform WinUI=LightGray,Android=CadetBlue}"
+             x:Class="MauiAppBindColeccion.MainPage" >
+    <ContentPage.Resources>
+        <convert:Pagado2ColorConverter x:Key="colorConvert"/>
+        <convert:FormatearTelenofoConverter x:Key="telefonoConvert"/>
+    </ContentPage.Resources>
+    <StackLayout Margin="{OnPlatform WinUI=6,Android=12}">
+        <ListView x:Name="lvSocios" BackgroundColor="Azure"
+                  ItemsSource="{x:Static local:Socio.Socios}" 
+                  x:DataType="local:Socio"
+                  RowHeight="30">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <HorizontalStackLayout Spacing="10" Padding="3">
+                            <Label Text="{Binding NombreSocio}" />
+                            <Label Text="{Binding ApellidosSocio}" />
+                            <Label Text="{Binding TelefonoSocio}"
+                                   TextColor="{Binding PagadoSocio, Converter={StaticResource colorConvert}}"/>
+                        </HorizontalStackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <!--<Label x:Name="labelSelecc" VerticalOptions="End"
+               BindingContext="{x:Reference lvSocios}"
+               Text="{Binding SelectedItem.NombreSocio,StringFormat='SELECCIÓN: {0}'}"/>-->
+        <Label VerticalOptions="End" 
+               TextColor="{OnIdiom Desktop=CadetBlue, Phone=White}"
+               BindingContext="{x:Reference lvSocios}">
+            <Label.Text>
+                <MultiBinding StringFormat="SELECCIONADO: {0}, {1} ({2})">
+                    <Binding Path="SelectedItem.ApellidosSocio"/>
+                    <Binding Path="SelectedItem.NombreSocio"/>
+                    <Binding Path="SelectedItem.TelefonoSocio"/> 
+                </MultiBinding>
+            </Label.Text>
+        </Label>
+    </StackLayout>
+
+
+</ContentPage>

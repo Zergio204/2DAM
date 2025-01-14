@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\emergentes\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|solutionrelative:newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\emergentes\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|solutionrelative:newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\emergentes\\emergentes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|solutionrelative:emergentes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\emergentes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\emergentes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\emergentes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1DA0E366-CA99-4C68-A524-C6F8CADF3CB2}|Emergentes.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emergentes",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\Emergentes.csproj",
+              "RelativeDocumentMoniker": "Emergentes.csproj",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\Emergentes.csproj",
+              "RelativeToolTip": "Emergentes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T07:38:30.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\NewPage1.xaml.cs",
+              "RelativeDocumentMoniker": "NewPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\NewPage1.xaml.cs",
+              "RelativeToolTip": "NewPage1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:32:48.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:31:53.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "NewPage1.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\NewPage1.xaml",
+              "RelativeToolTip": "NewPage1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T17:30:57.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:19:20.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Emergentes\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T17:18:59.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

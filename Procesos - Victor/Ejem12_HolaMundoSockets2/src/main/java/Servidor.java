@@ -7,37 +7,38 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Servidor {
+    private static List<ObjectOutputStream> clientes = new ArrayList<>();
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		try (ServerSocket server= new ServerSocket(4444)){
-			System.out.println("Servidor escuchando en el puerto 4444");
-			
-			List<Thread> threads = new ArrayList<>();
-            for (int i = 0; i < 5; i++) {
+    public static void main(String[] args) {
+        try (ServerSocket server = new ServerSocket(4444)) {
+            System.out.println("Servidor escuchando en el puerto 4444");
+            
+            while (true) {
                 Socket socket = server.accept();
-                Thread thread = new Thread(() -> {
-                    try (ObjectInputStream ois = new ObjectInputStream(socket.getInputStream())) {
-                        Mensaje mensaje;
-                        while ((mensaje = (Mensaje) ois.readObject()) != null) {
-                            System.out.println("Mensaje recibido: " + mensaje);
-                            if ("fin".equalsIgnoreCase(mensaje.getContenido())) {
-                                break;
+                ObjectOutputStream oos = new ObjectOutputStream(socket.getOutputStream());
+                clientes.add(oos);
+                
+                new Thread(() -> {
+                    try {
+                        ObjectInputStream ois = new ObjectInputStream(socket.getInputStream());
+                        
+                        while (true) {
+                            Mensaje mensaje = (Mensaje) ois.readObject();
+                            System.out.println("Mensaje recibido: " + mensaje.getContenido());
+                            
+                            // Enviar a todos los clientes
+                            for (ObjectOutputStream cliente : clientes) {
+                                cliente.writeObject(mensaje);
+                                cliente.flush();
                             }
                         }
-                    } catch (IOException | ClassNotFoundException e) {
+                    } catch (Exception e) {
                         e.printStackTrace();
                     }
-                });
-                threads.add(thread);
-                thread.start();
+                }).start();
             }
-			
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
-	}
-
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }

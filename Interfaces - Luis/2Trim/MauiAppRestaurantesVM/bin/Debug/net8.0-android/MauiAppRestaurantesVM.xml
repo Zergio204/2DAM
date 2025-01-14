@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiAppRestaurantesVM</name>
+    </assembly>
+    <members>
+        <member name="T:MauiAppRestaurantesVM.MainPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiAppRestaurantesVM.MainPageViewModel.CurrentRestaurante">
+            <inheritdoc cref="F:MauiAppRestaurantesVM.MainPageViewModel.currentRestaurante"/>
+        </member>
+        <member name="P:MauiAppRestaurantesVM.MainPageViewModel.Posicion">
+            <inheritdoc cref="F:MauiAppRestaurantesVM.MainPageViewModel.posicion"/>
+        </member>
+        <member name="F:MauiAppRestaurantesVM.MainPageViewModel.anteriorCommand">
+            <summary>The backing field for <see cref="P:MauiAppRestaurantesVM.MainPageViewModel.AnteriorCommand"/>.</summary>
+        </member>
+        <member name="P:MauiAppRestaurantesVM.MainPageViewModel.AnteriorCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:MauiAppRestaurantesVM.MainPageViewModel.Anterior"/>.</summary>
+        </member>
+        <member name="F:MauiAppRestaurantesVM.MainPageViewModel.siguienteCommand">
+            <summary>The backing field for <see cref="P:MauiAppRestaurantesVM.MainPageViewModel.SiguienteCommand"/>.</summary>
+        </member>
+        <member name="P:MauiAppRestaurantesVM.MainPageViewModel.SiguienteCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:MauiAppRestaurantesVM.MainPageViewModel.Siguiente"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CurrentRestaurante">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CurrentRestaurante" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Posicion">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Posicion" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.CurrentRestaurante">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "CurrentRestaurante" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Posicion">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Posicion" generated properties.</summary>
+        </member>
+    </members>
+</doc>

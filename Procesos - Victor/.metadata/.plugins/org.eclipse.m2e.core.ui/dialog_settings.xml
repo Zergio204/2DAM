@@ -54,8 +54,12 @@
 			<item value="gregoriofer.com"/>
 		</list>
 		<list key="name">
+			<item value="ChatExamen"/>
+			<item value="Ejem13_ServidorMovil"/>
 		</list>
 		<list key="artifactId">
+			<item value="ChatExamen"/>
+			<item value="Ejem13_ServidorMovil"/>
 			<item value="Ejem12_"/>
 		</list>
 		<list key="projectNameTemplate">

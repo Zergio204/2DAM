@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\gestos\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|solutionrelative:mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\gestos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|solutionrelative:tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\gestos\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\gestos\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\gestos\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|c:\\users\\matmense\\desktop\\2dam\\interfaces - luis\\2trim\\gestos\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30FA044-CE66-44A5-BEE7-0348B7C9468E}|Gestos.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\Tarea.cs",
+              "RelativeDocumentMoniker": "Tarea.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\Tarea.cs",
+              "RelativeToolTip": "Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:03:26.172Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:21:13.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T11:21:11.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\MainPageViewModel.cs",
+              "RelativeToolTip": "MainPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:20:16.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T11:21:07.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\matmense\\Desktop\\2DAM\\Interfaces - Luis\\2Trim\\Gestos\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:21:05.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

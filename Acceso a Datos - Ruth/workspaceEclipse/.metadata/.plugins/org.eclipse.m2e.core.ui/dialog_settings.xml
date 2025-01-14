@@ -27,6 +27,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="gregoriofer.com.WebEmpresa"/>
 			<item value="gregoriofer.com.webapp_matriculas"/>
 			<item value="gregoriofer.com.ManejoFicheros"/>
 			<item value="gregoriofer.com.E10_APP_JEE_ACCESO_CONSULTORA"/>
@@ -37,6 +38,7 @@
 			<item value="gregoriofer.com"/>
 		</list>
 		<list key="artifactId">
+			<item value="WebEmpresa"/>
 			<item value="webapp-matriculas"/>
 			<item value="ManejoFicheros"/>
 			<item value="E10_APP_JEE_ACCESO_CONSULTORA"/>

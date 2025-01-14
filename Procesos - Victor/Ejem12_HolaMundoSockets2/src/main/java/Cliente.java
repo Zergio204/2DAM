@@ -5,28 +5,35 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.Scanner;
 
-public class Cliente{
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		try (Socket socket = new Socket("localhost", 4444);){
-			ObjectOutputStream oos = new ObjectOutputStream(socket.getOutputStream());
-			Scanner sc = new Scanner(System.in);
-			
-			String mensaje;
-            do {
-                System.out.print("Escribe un mensaje: ");
-                mensaje = sc.nextLine();
-                oos.writeObject(new Mensaje("Cliente", mensaje));
-                oos.flush();
-            } while (!mensaje.equalsIgnoreCase("fin"));
-				
-			
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	
-	}
-
+public class Cliente {
+    public static void main(String[] args) {
+        try {
+            Socket socket = new Socket("localhost", 4444);
+            ObjectOutputStream oos = new ObjectOutputStream(socket.getOutputStream());
+            ObjectInputStream ois = new ObjectInputStream(socket.getInputStream());
+            
+            // Thread para recibir mensajes
+            new Thread(() -> {
+                try {
+                    while (true) {
+                        Mensaje mensaje = (Mensaje) ois.readObject();
+                        System.out.println(mensaje.Emisor() + ": " + mensaje.getContenido());
+                    }
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }).start();
+            
+            // Enviar mensajes
+            Scanner sc = new Scanner(System.in);
+            while (true) {
+                System.out.print("Mensaje: ");
+                String texto = sc.nextLine();
+                oos.writeObject(new Mensaje("Cliente", texto));
+            }
+            
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 }

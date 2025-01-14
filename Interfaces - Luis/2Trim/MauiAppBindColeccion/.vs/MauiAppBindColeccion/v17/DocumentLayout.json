@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\sources\\MAUI\\MauiAppBindColeccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|g:\\sources\\maui\\mauiappbindcoleccion\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|g:\\sources\\maui\\mauiappbindcoleccion\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|g:\\sources\\maui\\mauiappbindcoleccion\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|g:\\sources\\maui\\mauiappbindcoleccion\\converters\\formateartelefonoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|solutionrelative:converters\\formateartelefonoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|g:\\sources\\maui\\mauiappbindcoleccion\\converters\\pagado2colorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|solutionrelative:converters\\pagado2colorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|g:\\sources\\maui\\mauiappbindcoleccion\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|g:\\sources\\maui\\mauiappbindcoleccion\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|g:\\sources\\maui\\mauiappbindcoleccion\\socios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ECD820-CFEA-4C9B-903F-FE1131E6D9CF}|MauiAppBindColeccion.csproj|solutionrelative:socios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormatearTelefonoConverter.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\MauiAppBindColeccion\\Converters\\FormatearTelefonoConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\FormatearTelefonoConverter.cs",
+              "ToolTip": "G:\\sources\\MAUI\\MauiAppBindColeccion\\Converters\\FormatearTelefonoConverter.cs",
+              "RelativeToolTip": "Converters\\FormatearTelefonoConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:47:34.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\MauiAppBindColeccion\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "G:\\sources\\MAUI\\MauiAppBindColeccion\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:18:40.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\MauiAppBindColeccion\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "G:\\sources\\MAUI\\MauiAppBindColeccion\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:48:16.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\MauiAppBindColeccion\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\MauiAppBindColeccion\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T04:48:02.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pagado2ColorConverter.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\MauiAppBindColeccion\\Converters\\Pagado2ColorConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\Pagado2ColorConverter.cs",
+              "ToolTip": "G:\\sources\\MAUI\\MauiAppBindColeccion\\Converters\\Pagado2ColorConverter.cs",
+              "RelativeToolTip": "Converters\\Pagado2ColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:46:32.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\MauiAppBindColeccion\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\MauiAppBindColeccion\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T05:18:42.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\MauiAppBindColeccion\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "G:\\sources\\MAUI\\MauiAppBindColeccion\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:34:00.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Socios.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\MauiAppBindColeccion\\Socios.cs",
+              "RelativeDocumentMoniker": "Socios.cs",
+              "ToolTip": "G:\\sources\\MAUI\\MauiAppBindColeccion\\Socios.cs",
+              "RelativeToolTip": "Socios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:44:12.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

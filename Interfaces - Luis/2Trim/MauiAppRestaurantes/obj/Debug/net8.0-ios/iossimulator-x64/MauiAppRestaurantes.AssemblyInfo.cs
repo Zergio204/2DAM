@@ -14,11 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiAppRestaurantes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+14bfad3bda1ca901d3b094ba95da9492fc129640")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiAppRestaurantes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiAppRestaurantes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS17.5")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS17.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS11.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

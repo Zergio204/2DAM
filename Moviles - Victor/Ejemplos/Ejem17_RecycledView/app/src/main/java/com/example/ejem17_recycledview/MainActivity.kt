@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
         val listaPersonas = listOf(persona1,persona2,persona3)
 
-        binding.rvVistaDatos.adapter = PersonaAdapter(listaPersonas)
+        binding.rvVistaDatos.adapter = AdaptadorPersona(listaPersonas)
 
     }
 }

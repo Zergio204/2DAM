@@ -28,6 +28,12 @@
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1728888986518_7" label="2eva" name="2eva">
 <item elementID="=Ejem12_HolaMundoSockets" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Ejem12_HolaMundoSockets2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Ejem09_DatosAtomicos" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Ejem10_ProductorConsumidorFacil" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Ejem12_HolaSockets" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=EjerX_EnviandoYRecibiendoDatos" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejem13_ServidorMovil" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ChatExamen" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726727532630_2" label="Window Working Set" name="Aggregate for window 1726727532629"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1727074584603_4" label="Window Working Set" name="Aggregate for window 1727072446404"/>

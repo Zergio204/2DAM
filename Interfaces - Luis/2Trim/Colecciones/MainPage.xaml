@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"           
+             x:Class="Colecciones.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <StackLayout BindableLayout.ItemsSource="{Binding Personas}"
+             Orientation="Vertical" >
+                <BindableLayout.ItemTemplate>
+                    <DataTemplate>
+                        <Label Text="{Binding Nombre}" Margin="3" />
+                    </DataTemplate>
+                </BindableLayout.ItemTemplate>
+            </StackLayout>
+            <CollectionView ItemsSource="{Binding Personas}" Header="CollectionView:"
+                            SelectionMode="Single">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <VerticalStackLayout Margin="3">
+                            <Label Text="{Binding Nombre}" FontAttributes="Bold"/>
+                            <Label Text="{Binding Telefono}"/>
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <ListView ItemsSource="{Binding Personas}"
+                      SeparatorColor="DarkOrange"
+                      RowHeight="60" HeightRequest="300"
+                      Header="ListView:" Footer="Fin de la lista">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Nombre}" Detail="{Binding Telefono}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Picker x:Name="picker" Title="Select a monkey">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Baboon</x:String>
+                        <x:String>Capuchin Monkey</x:String>
+                        <x:String>Blue Monkey</x:String>
+                        <x:String>Squirrel Monkey</x:String>
+                        <x:String>Golden Lion Tamarin</x:String>
+                        <x:String>Howler Monkey</x:String>
+                        <x:String>Japanese Macaque</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>
