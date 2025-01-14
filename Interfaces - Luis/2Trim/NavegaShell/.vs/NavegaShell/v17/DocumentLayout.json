@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\sources\\MAUI\\NavegaShell\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C74C91F8-1671-4210-9BF6-12F19DAA5CA2}|NavegaShell.csproj|g:\\sources\\maui\\navegashell\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C74C91F8-1671-4210-9BF6-12F19DAA5CA2}|NavegaShell.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74C91F8-1671-4210-9BF6-12F19DAA5CA2}|NavegaShell.csproj|g:\\sources\\maui\\navegashell\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C74C91F8-1671-4210-9BF6-12F19DAA5CA2}|NavegaShell.csproj|solutionrelative:aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74C91F8-1671-4210-9BF6-12F19DAA5CA2}|NavegaShell.csproj|g:\\sources\\maui\\navegashell\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C74C91F8-1671-4210-9BF6-12F19DAA5CA2}|NavegaShell.csproj|solutionrelative:notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74C91F8-1671-4210-9BF6-12F19DAA5CA2}|NavegaShell.csproj|g:\\sources\\maui\\navegashell\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74C91F8-1671-4210-9BF6-12F19DAA5CA2}|NavegaShell.csproj|solutionrelative:notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotePage.xaml.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\NavegaShell\\NotePage.xaml.cs",
+              "RelativeDocumentMoniker": "NotePage.xaml.cs",
+              "ToolTip": "G:\\sources\\MAUI\\NavegaShell\\NotePage.xaml.cs",
+              "RelativeToolTip": "NotePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:55:04.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotePage.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\NavegaShell\\NotePage.xaml",
+              "RelativeDocumentMoniker": "NotePage.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\NavegaShell\\NotePage.xaml",
+              "RelativeToolTip": "NotePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T17:54:35.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\NavegaShell\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\NavegaShell\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T17:50:34.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\NavegaShell\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "AboutPage.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\NavegaShell\\AboutPage.xaml",
+              "RelativeToolTip": "AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T17:36:33.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

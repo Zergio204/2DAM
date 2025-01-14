@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MVVMColec.Views.Detalle"
+             xmlns:model="clr-namespace:MVVMColec.Models"
+             xmlns:vm="clr-namespace:MVVMColec.ViewModels"
+             x:DataType="vm:DetalleViewModel"
+             Title="{Binding CurrentSocio.NumSocio, StringFormat='Num. socio {0}'}">
+    <VerticalStackLayout 
+        Spacing="10" Margin="10" Padding="10" BackgroundColor="Transparent">
+        <Image Source="{Binding CurrentSocio.ImagenSocio}" WidthRequest="300" HeightRequest="200">
+            <Image.Clip>
+                <RoundRectangleGeometry CornerRadius="30" Rect="0,0,300,200"/>
+            </Image.Clip>
+        </Image>
+        <Frame BackgroundColor="LightPink" Margin="30,10" VerticalOptions="FillAndExpand">
+            <VerticalStackLayout Spacing="10">
+                <Label Text="{Binding CurrentSocio.NombreSocio, StringFormat='Nombre: {0}'}"/>
+                <Label Text="{Binding CurrentSocio.ApellidosSocio, StringFormat='Apellidos: {0}'}"/>
+                <Label Text="{Binding CurrentSocio.TelefonoSocio, StringFormat='Teléfono: {0}'}"/>
+            </VerticalStackLayout>
+        </Frame>
+    </VerticalStackLayout>
+</ContentPage>

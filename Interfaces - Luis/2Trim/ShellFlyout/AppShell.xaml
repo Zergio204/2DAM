@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ShellFlyout.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ShellFlyout"
+    xmlns:views="clr-namespace:ShellFlyout.Views"
+    Shell.FlyoutBehavior="Flyout"
+    Shell.BackgroundColor="CadetBlue"
+    Shell.FlyoutWidth="300"
+    FlyoutBackgroundImage="agl.png"
+    FlyoutBackgroundImageAspect="AspectFill"
+    FlyoutHeaderBehavior="CollapseOnScroll">
+
+    <Shell.FlyoutHeader>
+        <StackLayout BackgroundColor="CornflowerBlue">
+            <Image Source="sistemas1dam.png" VerticalOptions="Center" HeightRequest="120"/>
+        </StackLayout>
+
+    </Shell.FlyoutHeader>
+    <FlyoutItem Title="Inicio" Icon="home.png">
+        <ShellContent ContentTemplate="{DataTemplate views:InicioPage}"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Aulas" Icon="education.png">
+        <ShellContent ContentTemplate="{DataTemplate views:AulasPage}"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Notas" Icon="study.png">
+        <ShellContent ContentTemplate="{DataTemplate views:NotasPage}"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Apuntes" Icon="bookstack.png">
+        <ShellContent ContentTemplate="{DataTemplate views:ApuntesPage}"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Configuración" Icon="config.png">
+        <ShellContent ContentTemplate="{DataTemplate views:ConfigPage}"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Acerca de..." Icon="about.png">
+        <ShellContent ContentTemplate="{DataTemplate views:AboutPage}"/>
+    </FlyoutItem>
+
+    <Shell.FlyoutFooter>
+        <Button Text="Salir" Margin="20" Clicked="Button_Clicked"/>
+    </Shell.FlyoutFooter>
+</Shell>

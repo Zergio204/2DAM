@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\sources\\MAUI\\ShellFlyout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\views\\iniciopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:views\\iniciopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\views\\aulaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:views\\aulaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\views\\configpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:views\\configpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\views\\aulaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:views\\aulaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\views\\notaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:views\\notaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\views\\apuntespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:views\\apuntespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\views\\configpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:views\\configpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|g:\\sources\\maui\\shellflyout\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453FEDE-9B51-450B-B14D-FF8BAF54A38B}|ShellFlyout.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:54:45.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigPage.xaml.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\Views\\ConfigPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ConfigPage.xaml.cs",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\Views\\ConfigPage.xaml.cs",
+              "RelativeToolTip": "Views\\ConfigPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:41:09.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T17:40:07.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:40:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InicioPage.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\Views\\InicioPage.xaml",
+              "RelativeDocumentMoniker": "Views\\InicioPage.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\Views\\InicioPage.xaml",
+              "RelativeToolTip": "Views\\InicioPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T17:39:27.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AulasPage.xaml.cs",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\Views\\AulasPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AulasPage.xaml.cs",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\Views\\AulasPage.xaml.cs",
+              "RelativeToolTip": "Views\\AulasPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:35:53.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AboutPage.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "Views\\AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T17:28:02.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigPage.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\Views\\ConfigPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ConfigPage.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\Views\\ConfigPage.xaml",
+              "RelativeToolTip": "Views\\ConfigPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T17:27:46.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApuntesPage.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\Views\\ApuntesPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ApuntesPage.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\Views\\ApuntesPage.xaml",
+              "RelativeToolTip": "Views\\ApuntesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T17:27:17.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotasPage.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\Views\\NotasPage.xaml",
+              "RelativeDocumentMoniker": "Views\\NotasPage.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\Views\\NotasPage.xaml",
+              "RelativeToolTip": "Views\\NotasPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T17:26:52.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AulasPage.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\Views\\AulasPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AulasPage.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\Views\\AulasPage.xaml",
+              "RelativeToolTip": "Views\\AulasPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T17:23:41.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "G:\\sources\\MAUI\\ShellFlyout\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "G:\\sources\\MAUI\\ShellFlyout\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T16:39:46.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

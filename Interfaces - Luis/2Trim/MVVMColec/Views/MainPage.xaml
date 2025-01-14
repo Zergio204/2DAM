@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:model="clr-namespace:MVVMColec.Models"
+             xmlns:vm="clr-namespace:MVVMColec.ViewModels"
+             x:DataType="vm:MainPageViewModel"
+             x:Class="MVVMColec.MainPage">
+
+    <CollectionView ItemsSource="{Binding SocioList}" SelectionMode="Single" 
+                            SelectionChangedCommand="{Binding SelectionChangedCommand}"
+                            SelectedItem="{Binding CurrentSocio}">
+        <CollectionView.ItemTemplate>
+            <DataTemplate x:DataType="model:Socio">
+                <HorizontalStackLayout Spacing="10" Margin="6" Padding="1" BackgroundColor="LightPink">
+                    <Image Source="{Binding ImagenSocio}" WidthRequest="150" HeightRequest="100">
+                        <Image.Clip>
+                            <RoundRectangleGeometry CornerRadius="30" Rect="0,0,150,200"/>
+                        </Image.Clip>
+                    </Image>
+                    <VerticalStackLayout VerticalOptions="Center">
+                        <Label Text="{Binding NombreSocio, StringFormat='{0}'}"/>
+                        <Label Text="{Binding ApellidosSocio, StringFormat='{0}'}"/>
+                        <Label Text="{Binding TelefonoSocio, StringFormat='{0}'}"/>
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+
+</ContentPage>
